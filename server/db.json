@@ -1,0 +1,5656 @@
+[
+    {
+        "name": "bulbasaur",
+        "id": 1,
+        "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/1.png",
+        "base_experience": 64,
+        "types": [
+            "grass",
+            "poison"
+        ],
+        "height": 7,
+        "weight": 69,
+        "stats": [
+            {
+                "name": "hp",
+                "base_stat": 45
+            },
+            {
+                "name": "attack",
+                "base_stat": 49
+            },
+            {
+                "name": "defense",
+                "base_stat": 49
+            },
+            {
+                "name": "special-attack",
+                "base_stat": 65
+            },
+            {
+                "name": "special-defense",
+                "base_stat": 65
+            },
+            {
+                "name": "speed",
+                "base_stat": 45
+            }
+        ]
+    },
+    {
+        "name": "ivysaur",
+        "id": 2,
+        "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/2.png",
+        "base_experience": 142,
+        "types": [
+            "grass",
+            "poison"
+        ],
+        "height": 10,
+        "weight": 130,
+        "stats": [
+            {
+                "name": "hp",
+                "base_stat": 60
+            },
+            {
+                "name": "attack",
+                "base_stat": 62
+            },
+            {
+                "name": "defense",
+                "base_stat": 63
+            },
+            {
+                "name": "special-attack",
+                "base_stat": 80
+            },
+            {
+                "name": "special-defense",
+                "base_stat": 80
+            },
+            {
+                "name": "speed",
+                "base_stat": 60
+            }
+        ]
+    },
+    {
+        "name": "venusaur",
+        "id": 3,
+        "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/3.png",
+        "base_experience": 236,
+        "types": [
+            "grass",
+            "poison"
+        ],
+        "height": 20,
+        "weight": 1000,
+        "stats": [
+            {
+                "name": "hp",
+                "base_stat": 80
+            },
+            {
+                "name": "attack",
+                "base_stat": 82
+            },
+            {
+                "name": "defense",
+                "base_stat": 83
+            },
+            {
+                "name": "special-attack",
+                "base_stat": 100
+            },
+            {
+                "name": "special-defense",
+                "base_stat": 100
+            },
+            {
+                "name": "speed",
+                "base_stat": 80
+            }
+        ]
+    },
+    {
+        "name": "charmander",
+        "id": 4,
+        "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/4.png",
+        "base_experience": 62,
+        "types": [
+            "fire"
+        ],
+        "height": 6,
+        "weight": 85,
+        "stats": [
+            {
+                "name": "hp",
+                "base_stat": 39
+            },
+            {
+                "name": "attack",
+                "base_stat": 52
+            },
+            {
+                "name": "defense",
+                "base_stat": 43
+            },
+            {
+                "name": "special-attack",
+                "base_stat": 60
+            },
+            {
+                "name": "special-defense",
+                "base_stat": 50
+            },
+            {
+                "name": "speed",
+                "base_stat": 65
+            }
+        ]
+    },
+    {
+        "name": "charmeleon",
+        "id": 5,
+        "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/5.png",
+        "base_experience": 142,
+        "types": [
+            "fire"
+        ],
+        "height": 11,
+        "weight": 190,
+        "stats": [
+            {
+                "name": "hp",
+                "base_stat": 58
+            },
+            {
+                "name": "attack",
+                "base_stat": 64
+            },
+            {
+                "name": "defense",
+                "base_stat": 58
+            },
+            {
+                "name": "special-attack",
+                "base_stat": 80
+            },
+            {
+                "name": "special-defense",
+                "base_stat": 65
+            },
+            {
+                "name": "speed",
+                "base_stat": 80
+            }
+        ]
+    },
+    {
+        "name": "charizard",
+        "id": 6,
+        "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/6.png",
+        "base_experience": 240,
+        "types": [
+            "fire",
+            "flying"
+        ],
+        "height": 17,
+        "weight": 905,
+        "stats": [
+            {
+                "name": "hp",
+                "base_stat": 78
+            },
+            {
+                "name": "attack",
+                "base_stat": 84
+            },
+            {
+                "name": "defense",
+                "base_stat": 78
+            },
+            {
+                "name": "special-attack",
+                "base_stat": 109
+            },
+            {
+                "name": "special-defense",
+                "base_stat": 85
+            },
+            {
+                "name": "speed",
+                "base_stat": 100
+            }
+        ]
+    },
+    {
+        "name": "squirtle",
+        "id": 7,
+        "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/7.png",
+        "base_experience": 63,
+        "types": [
+            "water"
+        ],
+        "height": 5,
+        "weight": 90,
+        "stats": [
+            {
+                "name": "hp",
+                "base_stat": 44
+            },
+            {
+                "name": "attack",
+                "base_stat": 48
+            },
+            {
+                "name": "defense",
+                "base_stat": 65
+            },
+            {
+                "name": "special-attack",
+                "base_stat": 50
+            },
+            {
+                "name": "special-defense",
+                "base_stat": 64
+            },
+            {
+                "name": "speed",
+                "base_stat": 43
+            }
+        ]
+    },
+    {
+        "name": "wartortle",
+        "id": 8,
+        "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/8.png",
+        "base_experience": 142,
+        "types": [
+            "water"
+        ],
+        "height": 10,
+        "weight": 225,
+        "stats": [
+            {
+                "name": "hp",
+                "base_stat": 59
+            },
+            {
+                "name": "attack",
+                "base_stat": 63
+            },
+            {
+                "name": "defense",
+                "base_stat": 80
+            },
+            {
+                "name": "special-attack",
+                "base_stat": 65
+            },
+            {
+                "name": "special-defense",
+                "base_stat": 80
+            },
+            {
+                "name": "speed",
+                "base_stat": 58
+            }
+        ]
+    },
+    {
+        "name": "blastoise",
+        "id": 9,
+        "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/9.png",
+        "base_experience": 239,
+        "types": [
+            "water"
+        ],
+        "height": 16,
+        "weight": 855,
+        "stats": [
+            {
+                "name": "hp",
+                "base_stat": 79
+            },
+            {
+                "name": "attack",
+                "base_stat": 83
+            },
+            {
+                "name": "defense",
+                "base_stat": 100
+            },
+            {
+                "name": "special-attack",
+                "base_stat": 85
+            },
+            {
+                "name": "special-defense",
+                "base_stat": 105
+            },
+            {
+                "name": "speed",
+                "base_stat": 78
+            }
+        ]
+    },
+    {
+        "name": "caterpie",
+        "id": 10,
+        "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10.png",
+        "base_experience": 39,
+        "types": [
+            "bug"
+        ],
+        "height": 3,
+        "weight": 29,
+        "stats": [
+            {
+                "name": "hp",
+                "base_stat": 45
+            },
+            {
+                "name": "attack",
+                "base_stat": 30
+            },
+            {
+                "name": "defense",
+                "base_stat": 35
+            },
+            {
+                "name": "special-attack",
+                "base_stat": 20
+            },
+            {
+                "name": "special-defense",
+                "base_stat": 20
+            },
+            {
+                "name": "speed",
+                "base_stat": 45
+            }
+        ]
+    },
+    {
+        "name": "metapod",
+        "id": 11,
+        "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/11.png",
+        "base_experience": 72,
+        "types": [
+            "bug"
+        ],
+        "height": 7,
+        "weight": 99,
+        "stats": [
+            {
+                "name": "hp",
+                "base_stat": 50
+            },
+            {
+                "name": "attack",
+                "base_stat": 20
+            },
+            {
+                "name": "defense",
+                "base_stat": 55
+            },
+            {
+                "name": "special-attack",
+                "base_stat": 25
+            },
+            {
+                "name": "special-defense",
+                "base_stat": 25
+            },
+            {
+                "name": "speed",
+                "base_stat": 30
+            }
+        ]
+    },
+    {
+        "name": "butterfree",
+        "id": 12,
+        "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/12.png",
+        "base_experience": 178,
+        "types": [
+            "bug",
+            "flying"
+        ],
+        "height": 11,
+        "weight": 320,
+        "stats": [
+            {
+                "name": "hp",
+                "base_stat": 60
+            },
+            {
+                "name": "attack",
+                "base_stat": 45
+            },
+            {
+                "name": "defense",
+                "base_stat": 50
+            },
+            {
+                "name": "special-attack",
+                "base_stat": 90
+            },
+            {
+                "name": "special-defense",
+                "base_stat": 80
+            },
+            {
+                "name": "speed",
+                "base_stat": 70
+            }
+        ]
+    },
+    {
+        "name": "weedle",
+        "id": 13,
+        "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/13.png",
+        "base_experience": 39,
+        "types": [
+            "bug",
+            "poison"
+        ],
+        "height": 3,
+        "weight": 32,
+        "stats": [
+            {
+                "name": "hp",
+                "base_stat": 40
+            },
+            {
+                "name": "attack",
+                "base_stat": 35
+            },
+            {
+                "name": "defense",
+                "base_stat": 30
+            },
+            {
+                "name": "special-attack",
+                "base_stat": 20
+            },
+            {
+                "name": "special-defense",
+                "base_stat": 20
+            },
+            {
+                "name": "speed",
+                "base_stat": 50
+            }
+        ]
+    },
+    {
+        "name": "kakuna",
+        "id": 14,
+        "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/14.png",
+        "base_experience": 72,
+        "types": [
+            "bug",
+            "poison"
+        ],
+        "height": 6,
+        "weight": 100,
+        "stats": [
+            {
+                "name": "hp",
+                "base_stat": 45
+            },
+            {
+                "name": "attack",
+                "base_stat": 25
+            },
+            {
+                "name": "defense",
+                "base_stat": 50
+            },
+            {
+                "name": "special-attack",
+                "base_stat": 25
+            },
+            {
+                "name": "special-defense",
+                "base_stat": 25
+            },
+            {
+                "name": "speed",
+                "base_stat": 35
+            }
+        ]
+    },
+    {
+        "name": "beedrill",
+        "id": 15,
+        "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/15.png",
+        "base_experience": 178,
+        "types": [
+            "bug",
+            "poison"
+        ],
+        "height": 10,
+        "weight": 295,
+        "stats": [
+            {
+                "name": "hp",
+                "base_stat": 65
+            },
+            {
+                "name": "attack",
+                "base_stat": 90
+            },
+            {
+                "name": "defense",
+                "base_stat": 40
+            },
+            {
+                "name": "special-attack",
+                "base_stat": 45
+            },
+            {
+                "name": "special-defense",
+                "base_stat": 80
+            },
+            {
+                "name": "speed",
+                "base_stat": 75
+            }
+        ]
+    },
+    {
+        "name": "pidgey",
+        "id": 16,
+        "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/16.png",
+        "base_experience": 50,
+        "types": [
+            "normal",
+            "flying"
+        ],
+        "height": 3,
+        "weight": 18,
+        "stats": [
+            {
+                "name": "hp",
+                "base_stat": 40
+            },
+            {
+                "name": "attack",
+                "base_stat": 45
+            },
+            {
+                "name": "defense",
+                "base_stat": 40
+            },
+            {
+                "name": "special-attack",
+                "base_stat": 35
+            },
+            {
+                "name": "special-defense",
+                "base_stat": 35
+            },
+            {
+                "name": "speed",
+                "base_stat": 56
+            }
+        ]
+    },
+    {
+        "name": "pidgeotto",
+        "id": 17,
+        "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/17.png",
+        "base_experience": 122,
+        "types": [
+            "normal",
+            "flying"
+        ],
+        "height": 11,
+        "weight": 300,
+        "stats": [
+            {
+                "name": "hp",
+                "base_stat": 63
+            },
+            {
+                "name": "attack",
+                "base_stat": 60
+            },
+            {
+                "name": "defense",
+                "base_stat": 55
+            },
+            {
+                "name": "special-attack",
+                "base_stat": 50
+            },
+            {
+                "name": "special-defense",
+                "base_stat": 50
+            },
+            {
+                "name": "speed",
+                "base_stat": 71
+            }
+        ]
+    },
+    {
+        "name": "pidgeot",
+        "id": 18,
+        "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/18.png",
+        "base_experience": 216,
+        "types": [
+            "normal",
+            "flying"
+        ],
+        "height": 15,
+        "weight": 395,
+        "stats": [
+            {
+                "name": "hp",
+                "base_stat": 83
+            },
+            {
+                "name": "attack",
+                "base_stat": 80
+            },
+            {
+                "name": "defense",
+                "base_stat": 75
+            },
+            {
+                "name": "special-attack",
+                "base_stat": 70
+            },
+            {
+                "name": "special-defense",
+                "base_stat": 70
+            },
+            {
+                "name": "speed",
+                "base_stat": 101
+            }
+        ]
+    },
+    {
+        "name": "rattata",
+        "id": 19,
+        "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/19.png",
+        "base_experience": 51,
+        "types": [
+            "normal"
+        ],
+        "height": 3,
+        "weight": 35,
+        "stats": [
+            {
+                "name": "hp",
+                "base_stat": 30
+            },
+            {
+                "name": "attack",
+                "base_stat": 56
+            },
+            {
+                "name": "defense",
+                "base_stat": 35
+            },
+            {
+                "name": "special-attack",
+                "base_stat": 25
+            },
+            {
+                "name": "special-defense",
+                "base_stat": 35
+            },
+            {
+                "name": "speed",
+                "base_stat": 72
+            }
+        ]
+    },
+    {
+        "name": "raticate",
+        "id": 20,
+        "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/20.png",
+        "base_experience": 145,
+        "types": [
+            "normal"
+        ],
+        "height": 7,
+        "weight": 185,
+        "stats": [
+            {
+                "name": "hp",
+                "base_stat": 55
+            },
+            {
+                "name": "attack",
+                "base_stat": 81
+            },
+            {
+                "name": "defense",
+                "base_stat": 60
+            },
+            {
+                "name": "special-attack",
+                "base_stat": 50
+            },
+            {
+                "name": "special-defense",
+                "base_stat": 70
+            },
+            {
+                "name": "speed",
+                "base_stat": 97
+            }
+        ]
+    },
+    {
+        "name": "spearow",
+        "id": 21,
+        "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/21.png",
+        "base_experience": 52,
+        "types": [
+            "normal",
+            "flying"
+        ],
+        "height": 3,
+        "weight": 20,
+        "stats": [
+            {
+                "name": "hp",
+                "base_stat": 40
+            },
+            {
+                "name": "attack",
+                "base_stat": 60
+            },
+            {
+                "name": "defense",
+                "base_stat": 30
+            },
+            {
+                "name": "special-attack",
+                "base_stat": 31
+            },
+            {
+                "name": "special-defense",
+                "base_stat": 31
+            },
+            {
+                "name": "speed",
+                "base_stat": 70
+            }
+        ]
+    },
+    {
+        "name": "fearow",
+        "id": 22,
+        "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/22.png",
+        "base_experience": 155,
+        "types": [
+            "normal",
+            "flying"
+        ],
+        "height": 12,
+        "weight": 380,
+        "stats": [
+            {
+                "name": "hp",
+                "base_stat": 65
+            },
+            {
+                "name": "attack",
+                "base_stat": 90
+            },
+            {
+                "name": "defense",
+                "base_stat": 65
+            },
+            {
+                "name": "special-attack",
+                "base_stat": 61
+            },
+            {
+                "name": "special-defense",
+                "base_stat": 61
+            },
+            {
+                "name": "speed",
+                "base_stat": 100
+            }
+        ]
+    },
+    {
+        "name": "ekans",
+        "id": 23,
+        "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/23.png",
+        "base_experience": 58,
+        "types": [
+            "poison"
+        ],
+        "height": 20,
+        "weight": 69,
+        "stats": [
+            {
+                "name": "hp",
+                "base_stat": 35
+            },
+            {
+                "name": "attack",
+                "base_stat": 60
+            },
+            {
+                "name": "defense",
+                "base_stat": 44
+            },
+            {
+                "name": "special-attack",
+                "base_stat": 40
+            },
+            {
+                "name": "special-defense",
+                "base_stat": 54
+            },
+            {
+                "name": "speed",
+                "base_stat": 55
+            }
+        ]
+    },
+    {
+        "name": "arbok",
+        "id": 24,
+        "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/24.png",
+        "base_experience": 157,
+        "types": [
+            "poison"
+        ],
+        "height": 35,
+        "weight": 650,
+        "stats": [
+            {
+                "name": "hp",
+                "base_stat": 60
+            },
+            {
+                "name": "attack",
+                "base_stat": 95
+            },
+            {
+                "name": "defense",
+                "base_stat": 69
+            },
+            {
+                "name": "special-attack",
+                "base_stat": 65
+            },
+            {
+                "name": "special-defense",
+                "base_stat": 79
+            },
+            {
+                "name": "speed",
+                "base_stat": 80
+            }
+        ]
+    },
+    {
+        "name": "pikachu",
+        "id": 25,
+        "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/25.png",
+        "base_experience": 112,
+        "types": [
+            "electric"
+        ],
+        "height": 4,
+        "weight": 60,
+        "stats": [
+            {
+                "name": "hp",
+                "base_stat": 35
+            },
+            {
+                "name": "attack",
+                "base_stat": 55
+            },
+            {
+                "name": "defense",
+                "base_stat": 40
+            },
+            {
+                "name": "special-attack",
+                "base_stat": 50
+            },
+            {
+                "name": "special-defense",
+                "base_stat": 50
+            },
+            {
+                "name": "speed",
+                "base_stat": 90
+            }
+        ]
+    },
+    {
+        "name": "raichu",
+        "id": 26,
+        "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/26.png",
+        "base_experience": 218,
+        "types": [
+            "electric"
+        ],
+        "height": 8,
+        "weight": 300,
+        "stats": [
+            {
+                "name": "hp",
+                "base_stat": 60
+            },
+            {
+                "name": "attack",
+                "base_stat": 90
+            },
+            {
+                "name": "defense",
+                "base_stat": 55
+            },
+            {
+                "name": "special-attack",
+                "base_stat": 90
+            },
+            {
+                "name": "special-defense",
+                "base_stat": 80
+            },
+            {
+                "name": "speed",
+                "base_stat": 110
+            }
+        ]
+    },
+    {
+        "name": "sandshrew",
+        "id": 27,
+        "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/27.png",
+        "base_experience": 60,
+        "types": [
+            "ground"
+        ],
+        "height": 6,
+        "weight": 120,
+        "stats": [
+            {
+                "name": "hp",
+                "base_stat": 50
+            },
+            {
+                "name": "attack",
+                "base_stat": 75
+            },
+            {
+                "name": "defense",
+                "base_stat": 85
+            },
+            {
+                "name": "special-attack",
+                "base_stat": 20
+            },
+            {
+                "name": "special-defense",
+                "base_stat": 30
+            },
+            {
+                "name": "speed",
+                "base_stat": 40
+            }
+        ]
+    },
+    {
+        "name": "sandslash",
+        "id": 28,
+        "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/28.png",
+        "base_experience": 158,
+        "types": [
+            "ground"
+        ],
+        "height": 10,
+        "weight": 295,
+        "stats": [
+            {
+                "name": "hp",
+                "base_stat": 75
+            },
+            {
+                "name": "attack",
+                "base_stat": 100
+            },
+            {
+                "name": "defense",
+                "base_stat": 110
+            },
+            {
+                "name": "special-attack",
+                "base_stat": 45
+            },
+            {
+                "name": "special-defense",
+                "base_stat": 55
+            },
+            {
+                "name": "speed",
+                "base_stat": 65
+            }
+        ]
+    },
+    {
+        "name": "nidoran-f",
+        "id": 29,
+        "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/29.png",
+        "base_experience": 55,
+        "types": [
+            "poison"
+        ],
+        "height": 4,
+        "weight": 70,
+        "stats": [
+            {
+                "name": "hp",
+                "base_stat": 55
+            },
+            {
+                "name": "attack",
+                "base_stat": 47
+            },
+            {
+                "name": "defense",
+                "base_stat": 52
+            },
+            {
+                "name": "special-attack",
+                "base_stat": 40
+            },
+            {
+                "name": "special-defense",
+                "base_stat": 40
+            },
+            {
+                "name": "speed",
+                "base_stat": 41
+            }
+        ]
+    },
+    {
+        "name": "nidorina",
+        "id": 30,
+        "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/30.png",
+        "base_experience": 128,
+        "types": [
+            "poison"
+        ],
+        "height": 8,
+        "weight": 200,
+        "stats": [
+            {
+                "name": "hp",
+                "base_stat": 70
+            },
+            {
+                "name": "attack",
+                "base_stat": 62
+            },
+            {
+                "name": "defense",
+                "base_stat": 67
+            },
+            {
+                "name": "special-attack",
+                "base_stat": 55
+            },
+            {
+                "name": "special-defense",
+                "base_stat": 55
+            },
+            {
+                "name": "speed",
+                "base_stat": 56
+            }
+        ]
+    },
+    {
+        "name": "nidoqueen",
+        "id": 31,
+        "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/31.png",
+        "base_experience": 227,
+        "types": [
+            "poison",
+            "ground"
+        ],
+        "height": 13,
+        "weight": 600,
+        "stats": [
+            {
+                "name": "hp",
+                "base_stat": 90
+            },
+            {
+                "name": "attack",
+                "base_stat": 92
+            },
+            {
+                "name": "defense",
+                "base_stat": 87
+            },
+            {
+                "name": "special-attack",
+                "base_stat": 75
+            },
+            {
+                "name": "special-defense",
+                "base_stat": 85
+            },
+            {
+                "name": "speed",
+                "base_stat": 76
+            }
+        ]
+    },
+    {
+        "name": "nidoran-m",
+        "id": 32,
+        "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/32.png",
+        "base_experience": 55,
+        "types": [
+            "poison"
+        ],
+        "height": 5,
+        "weight": 90,
+        "stats": [
+            {
+                "name": "hp",
+                "base_stat": 46
+            },
+            {
+                "name": "attack",
+                "base_stat": 57
+            },
+            {
+                "name": "defense",
+                "base_stat": 40
+            },
+            {
+                "name": "special-attack",
+                "base_stat": 40
+            },
+            {
+                "name": "special-defense",
+                "base_stat": 40
+            },
+            {
+                "name": "speed",
+                "base_stat": 50
+            }
+        ]
+    },
+    {
+        "name": "nidorino",
+        "id": 33,
+        "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/33.png",
+        "base_experience": 128,
+        "types": [
+            "poison"
+        ],
+        "height": 9,
+        "weight": 195,
+        "stats": [
+            {
+                "name": "hp",
+                "base_stat": 61
+            },
+            {
+                "name": "attack",
+                "base_stat": 72
+            },
+            {
+                "name": "defense",
+                "base_stat": 57
+            },
+            {
+                "name": "special-attack",
+                "base_stat": 55
+            },
+            {
+                "name": "special-defense",
+                "base_stat": 55
+            },
+            {
+                "name": "speed",
+                "base_stat": 65
+            }
+        ]
+    },
+    {
+        "name": "nidoking",
+        "id": 34,
+        "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/34.png",
+        "base_experience": 227,
+        "types": [
+            "poison",
+            "ground"
+        ],
+        "height": 14,
+        "weight": 620,
+        "stats": [
+            {
+                "name": "hp",
+                "base_stat": 81
+            },
+            {
+                "name": "attack",
+                "base_stat": 102
+            },
+            {
+                "name": "defense",
+                "base_stat": 77
+            },
+            {
+                "name": "special-attack",
+                "base_stat": 85
+            },
+            {
+                "name": "special-defense",
+                "base_stat": 75
+            },
+            {
+                "name": "speed",
+                "base_stat": 85
+            }
+        ]
+    },
+    {
+        "name": "clefairy",
+        "id": 35,
+        "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/35.png",
+        "base_experience": 113,
+        "types": [
+            "fairy"
+        ],
+        "height": 6,
+        "weight": 75,
+        "stats": [
+            {
+                "name": "hp",
+                "base_stat": 70
+            },
+            {
+                "name": "attack",
+                "base_stat": 45
+            },
+            {
+                "name": "defense",
+                "base_stat": 48
+            },
+            {
+                "name": "special-attack",
+                "base_stat": 60
+            },
+            {
+                "name": "special-defense",
+                "base_stat": 65
+            },
+            {
+                "name": "speed",
+                "base_stat": 35
+            }
+        ]
+    },
+    {
+        "name": "clefable",
+        "id": 36,
+        "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/36.png",
+        "base_experience": 217,
+        "types": [
+            "fairy"
+        ],
+        "height": 13,
+        "weight": 400,
+        "stats": [
+            {
+                "name": "hp",
+                "base_stat": 95
+            },
+            {
+                "name": "attack",
+                "base_stat": 70
+            },
+            {
+                "name": "defense",
+                "base_stat": 73
+            },
+            {
+                "name": "special-attack",
+                "base_stat": 95
+            },
+            {
+                "name": "special-defense",
+                "base_stat": 90
+            },
+            {
+                "name": "speed",
+                "base_stat": 60
+            }
+        ]
+    },
+    {
+        "name": "vulpix",
+        "id": 37,
+        "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/37.png",
+        "base_experience": 60,
+        "types": [
+            "fire"
+        ],
+        "height": 6,
+        "weight": 99,
+        "stats": [
+            {
+                "name": "hp",
+                "base_stat": 38
+            },
+            {
+                "name": "attack",
+                "base_stat": 41
+            },
+            {
+                "name": "defense",
+                "base_stat": 40
+            },
+            {
+                "name": "special-attack",
+                "base_stat": 50
+            },
+            {
+                "name": "special-defense",
+                "base_stat": 65
+            },
+            {
+                "name": "speed",
+                "base_stat": 65
+            }
+        ]
+    },
+    {
+        "name": "ninetales",
+        "id": 38,
+        "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/38.png",
+        "base_experience": 177,
+        "types": [
+            "fire"
+        ],
+        "height": 11,
+        "weight": 199,
+        "stats": [
+            {
+                "name": "hp",
+                "base_stat": 73
+            },
+            {
+                "name": "attack",
+                "base_stat": 76
+            },
+            {
+                "name": "defense",
+                "base_stat": 75
+            },
+            {
+                "name": "special-attack",
+                "base_stat": 81
+            },
+            {
+                "name": "special-defense",
+                "base_stat": 100
+            },
+            {
+                "name": "speed",
+                "base_stat": 100
+            }
+        ]
+    },
+    {
+        "name": "jigglypuff",
+        "id": 39,
+        "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/39.png",
+        "base_experience": 95,
+        "types": [
+            "normal",
+            "fairy"
+        ],
+        "height": 5,
+        "weight": 55,
+        "stats": [
+            {
+                "name": "hp",
+                "base_stat": 115
+            },
+            {
+                "name": "attack",
+                "base_stat": 45
+            },
+            {
+                "name": "defense",
+                "base_stat": 20
+            },
+            {
+                "name": "special-attack",
+                "base_stat": 45
+            },
+            {
+                "name": "special-defense",
+                "base_stat": 25
+            },
+            {
+                "name": "speed",
+                "base_stat": 20
+            }
+        ]
+    },
+    {
+        "name": "wigglytuff",
+        "id": 40,
+        "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/40.png",
+        "base_experience": 196,
+        "types": [
+            "normal",
+            "fairy"
+        ],
+        "height": 10,
+        "weight": 120,
+        "stats": [
+            {
+                "name": "hp",
+                "base_stat": 140
+            },
+            {
+                "name": "attack",
+                "base_stat": 70
+            },
+            {
+                "name": "defense",
+                "base_stat": 45
+            },
+            {
+                "name": "special-attack",
+                "base_stat": 85
+            },
+            {
+                "name": "special-defense",
+                "base_stat": 50
+            },
+            {
+                "name": "speed",
+                "base_stat": 45
+            }
+        ]
+    },
+    {
+        "name": "zubat",
+        "id": 41,
+        "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/41.png",
+        "base_experience": 49,
+        "types": [
+            "poison",
+            "flying"
+        ],
+        "height": 8,
+        "weight": 75,
+        "stats": [
+            {
+                "name": "hp",
+                "base_stat": 40
+            },
+            {
+                "name": "attack",
+                "base_stat": 45
+            },
+            {
+                "name": "defense",
+                "base_stat": 35
+            },
+            {
+                "name": "special-attack",
+                "base_stat": 30
+            },
+            {
+                "name": "special-defense",
+                "base_stat": 40
+            },
+            {
+                "name": "speed",
+                "base_stat": 55
+            }
+        ]
+    },
+    {
+        "name": "golbat",
+        "id": 42,
+        "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/42.png",
+        "base_experience": 159,
+        "types": [
+            "poison",
+            "flying"
+        ],
+        "height": 16,
+        "weight": 550,
+        "stats": [
+            {
+                "name": "hp",
+                "base_stat": 75
+            },
+            {
+                "name": "attack",
+                "base_stat": 80
+            },
+            {
+                "name": "defense",
+                "base_stat": 70
+            },
+            {
+                "name": "special-attack",
+                "base_stat": 65
+            },
+            {
+                "name": "special-defense",
+                "base_stat": 75
+            },
+            {
+                "name": "speed",
+                "base_stat": 90
+            }
+        ]
+    },
+    {
+        "name": "oddish",
+        "id": 43,
+        "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/43.png",
+        "base_experience": 64,
+        "types": [
+            "grass",
+            "poison"
+        ],
+        "height": 5,
+        "weight": 54,
+        "stats": [
+            {
+                "name": "hp",
+                "base_stat": 45
+            },
+            {
+                "name": "attack",
+                "base_stat": 50
+            },
+            {
+                "name": "defense",
+                "base_stat": 55
+            },
+            {
+                "name": "special-attack",
+                "base_stat": 75
+            },
+            {
+                "name": "special-defense",
+                "base_stat": 65
+            },
+            {
+                "name": "speed",
+                "base_stat": 30
+            }
+        ]
+    },
+    {
+        "name": "gloom",
+        "id": 44,
+        "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/44.png",
+        "base_experience": 138,
+        "types": [
+            "grass",
+            "poison"
+        ],
+        "height": 8,
+        "weight": 86,
+        "stats": [
+            {
+                "name": "hp",
+                "base_stat": 60
+            },
+            {
+                "name": "attack",
+                "base_stat": 65
+            },
+            {
+                "name": "defense",
+                "base_stat": 70
+            },
+            {
+                "name": "special-attack",
+                "base_stat": 85
+            },
+            {
+                "name": "special-defense",
+                "base_stat": 75
+            },
+            {
+                "name": "speed",
+                "base_stat": 40
+            }
+        ]
+    },
+    {
+        "name": "vileplume",
+        "id": 45,
+        "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/45.png",
+        "base_experience": 221,
+        "types": [
+            "grass",
+            "poison"
+        ],
+        "height": 12,
+        "weight": 186,
+        "stats": [
+            {
+                "name": "hp",
+                "base_stat": 75
+            },
+            {
+                "name": "attack",
+                "base_stat": 80
+            },
+            {
+                "name": "defense",
+                "base_stat": 85
+            },
+            {
+                "name": "special-attack",
+                "base_stat": 110
+            },
+            {
+                "name": "special-defense",
+                "base_stat": 90
+            },
+            {
+                "name": "speed",
+                "base_stat": 50
+            }
+        ]
+    },
+    {
+        "name": "paras",
+        "id": 46,
+        "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/46.png",
+        "base_experience": 57,
+        "types": [
+            "bug",
+            "grass"
+        ],
+        "height": 3,
+        "weight": 54,
+        "stats": [
+            {
+                "name": "hp",
+                "base_stat": 35
+            },
+            {
+                "name": "attack",
+                "base_stat": 70
+            },
+            {
+                "name": "defense",
+                "base_stat": 55
+            },
+            {
+                "name": "special-attack",
+                "base_stat": 45
+            },
+            {
+                "name": "special-defense",
+                "base_stat": 55
+            },
+            {
+                "name": "speed",
+                "base_stat": 25
+            }
+        ]
+    },
+    {
+        "name": "parasect",
+        "id": 47,
+        "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/47.png",
+        "base_experience": 142,
+        "types": [
+            "bug",
+            "grass"
+        ],
+        "height": 10,
+        "weight": 295,
+        "stats": [
+            {
+                "name": "hp",
+                "base_stat": 60
+            },
+            {
+                "name": "attack",
+                "base_stat": 95
+            },
+            {
+                "name": "defense",
+                "base_stat": 80
+            },
+            {
+                "name": "special-attack",
+                "base_stat": 60
+            },
+            {
+                "name": "special-defense",
+                "base_stat": 80
+            },
+            {
+                "name": "speed",
+                "base_stat": 30
+            }
+        ]
+    },
+    {
+        "name": "venonat",
+        "id": 48,
+        "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/48.png",
+        "base_experience": 61,
+        "types": [
+            "bug",
+            "poison"
+        ],
+        "height": 10,
+        "weight": 300,
+        "stats": [
+            {
+                "name": "hp",
+                "base_stat": 60
+            },
+            {
+                "name": "attack",
+                "base_stat": 55
+            },
+            {
+                "name": "defense",
+                "base_stat": 50
+            },
+            {
+                "name": "special-attack",
+                "base_stat": 40
+            },
+            {
+                "name": "special-defense",
+                "base_stat": 55
+            },
+            {
+                "name": "speed",
+                "base_stat": 45
+            }
+        ]
+    },
+    {
+        "name": "venomoth",
+        "id": 49,
+        "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/49.png",
+        "base_experience": 158,
+        "types": [
+            "bug",
+            "poison"
+        ],
+        "height": 15,
+        "weight": 125,
+        "stats": [
+            {
+                "name": "hp",
+                "base_stat": 70
+            },
+            {
+                "name": "attack",
+                "base_stat": 65
+            },
+            {
+                "name": "defense",
+                "base_stat": 60
+            },
+            {
+                "name": "special-attack",
+                "base_stat": 90
+            },
+            {
+                "name": "special-defense",
+                "base_stat": 75
+            },
+            {
+                "name": "speed",
+                "base_stat": 90
+            }
+        ]
+    },
+    {
+        "name": "diglett",
+        "id": 50,
+        "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/50.png",
+        "base_experience": 53,
+        "types": [
+            "ground"
+        ],
+        "height": 2,
+        "weight": 8,
+        "stats": [
+            {
+                "name": "hp",
+                "base_stat": 10
+            },
+            {
+                "name": "attack",
+                "base_stat": 55
+            },
+            {
+                "name": "defense",
+                "base_stat": 25
+            },
+            {
+                "name": "special-attack",
+                "base_stat": 35
+            },
+            {
+                "name": "special-defense",
+                "base_stat": 45
+            },
+            {
+                "name": "speed",
+                "base_stat": 95
+            }
+        ]
+    },
+    {
+        "name": "dugtrio",
+        "id": 51,
+        "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/51.png",
+        "base_experience": 149,
+        "types": [
+            "ground"
+        ],
+        "height": 7,
+        "weight": 333,
+        "stats": [
+            {
+                "name": "hp",
+                "base_stat": 35
+            },
+            {
+                "name": "attack",
+                "base_stat": 100
+            },
+            {
+                "name": "defense",
+                "base_stat": 50
+            },
+            {
+                "name": "special-attack",
+                "base_stat": 50
+            },
+            {
+                "name": "special-defense",
+                "base_stat": 70
+            },
+            {
+                "name": "speed",
+                "base_stat": 120
+            }
+        ]
+    },
+    {
+        "name": "meowth",
+        "id": 52,
+        "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/52.png",
+        "base_experience": 58,
+        "types": [
+            "normal"
+        ],
+        "height": 4,
+        "weight": 42,
+        "stats": [
+            {
+                "name": "hp",
+                "base_stat": 40
+            },
+            {
+                "name": "attack",
+                "base_stat": 45
+            },
+            {
+                "name": "defense",
+                "base_stat": 35
+            },
+            {
+                "name": "special-attack",
+                "base_stat": 40
+            },
+            {
+                "name": "special-defense",
+                "base_stat": 40
+            },
+            {
+                "name": "speed",
+                "base_stat": 90
+            }
+        ]
+    },
+    {
+        "name": "persian",
+        "id": 53,
+        "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/53.png",
+        "base_experience": 154,
+        "types": [
+            "normal"
+        ],
+        "height": 10,
+        "weight": 320,
+        "stats": [
+            {
+                "name": "hp",
+                "base_stat": 65
+            },
+            {
+                "name": "attack",
+                "base_stat": 70
+            },
+            {
+                "name": "defense",
+                "base_stat": 60
+            },
+            {
+                "name": "special-attack",
+                "base_stat": 65
+            },
+            {
+                "name": "special-defense",
+                "base_stat": 65
+            },
+            {
+                "name": "speed",
+                "base_stat": 115
+            }
+        ]
+    },
+    {
+        "name": "psyduck",
+        "id": 54,
+        "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/54.png",
+        "base_experience": 64,
+        "types": [
+            "water"
+        ],
+        "height": 8,
+        "weight": 196,
+        "stats": [
+            {
+                "name": "hp",
+                "base_stat": 50
+            },
+            {
+                "name": "attack",
+                "base_stat": 52
+            },
+            {
+                "name": "defense",
+                "base_stat": 48
+            },
+            {
+                "name": "special-attack",
+                "base_stat": 65
+            },
+            {
+                "name": "special-defense",
+                "base_stat": 50
+            },
+            {
+                "name": "speed",
+                "base_stat": 55
+            }
+        ]
+    },
+    {
+        "name": "golduck",
+        "id": 55,
+        "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/55.png",
+        "base_experience": 175,
+        "types": [
+            "water"
+        ],
+        "height": 17,
+        "weight": 766,
+        "stats": [
+            {
+                "name": "hp",
+                "base_stat": 80
+            },
+            {
+                "name": "attack",
+                "base_stat": 82
+            },
+            {
+                "name": "defense",
+                "base_stat": 78
+            },
+            {
+                "name": "special-attack",
+                "base_stat": 95
+            },
+            {
+                "name": "special-defense",
+                "base_stat": 80
+            },
+            {
+                "name": "speed",
+                "base_stat": 85
+            }
+        ]
+    },
+    {
+        "name": "mankey",
+        "id": 56,
+        "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/56.png",
+        "base_experience": 61,
+        "types": [
+            "fighting"
+        ],
+        "height": 5,
+        "weight": 280,
+        "stats": [
+            {
+                "name": "hp",
+                "base_stat": 40
+            },
+            {
+                "name": "attack",
+                "base_stat": 80
+            },
+            {
+                "name": "defense",
+                "base_stat": 35
+            },
+            {
+                "name": "special-attack",
+                "base_stat": 35
+            },
+            {
+                "name": "special-defense",
+                "base_stat": 45
+            },
+            {
+                "name": "speed",
+                "base_stat": 70
+            }
+        ]
+    },
+    {
+        "name": "primeape",
+        "id": 57,
+        "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/57.png",
+        "base_experience": 159,
+        "types": [
+            "fighting"
+        ],
+        "height": 10,
+        "weight": 320,
+        "stats": [
+            {
+                "name": "hp",
+                "base_stat": 65
+            },
+            {
+                "name": "attack",
+                "base_stat": 105
+            },
+            {
+                "name": "defense",
+                "base_stat": 60
+            },
+            {
+                "name": "special-attack",
+                "base_stat": 60
+            },
+            {
+                "name": "special-defense",
+                "base_stat": 70
+            },
+            {
+                "name": "speed",
+                "base_stat": 95
+            }
+        ]
+    },
+    {
+        "name": "growlithe",
+        "id": 58,
+        "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/58.png",
+        "base_experience": 70,
+        "types": [
+            "fire"
+        ],
+        "height": 7,
+        "weight": 190,
+        "stats": [
+            {
+                "name": "hp",
+                "base_stat": 55
+            },
+            {
+                "name": "attack",
+                "base_stat": 70
+            },
+            {
+                "name": "defense",
+                "base_stat": 45
+            },
+            {
+                "name": "special-attack",
+                "base_stat": 70
+            },
+            {
+                "name": "special-defense",
+                "base_stat": 50
+            },
+            {
+                "name": "speed",
+                "base_stat": 60
+            }
+        ]
+    },
+    {
+        "name": "arcanine",
+        "id": 59,
+        "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/59.png",
+        "base_experience": 194,
+        "types": [
+            "fire"
+        ],
+        "height": 19,
+        "weight": 1550,
+        "stats": [
+            {
+                "name": "hp",
+                "base_stat": 90
+            },
+            {
+                "name": "attack",
+                "base_stat": 110
+            },
+            {
+                "name": "defense",
+                "base_stat": 80
+            },
+            {
+                "name": "special-attack",
+                "base_stat": 100
+            },
+            {
+                "name": "special-defense",
+                "base_stat": 80
+            },
+            {
+                "name": "speed",
+                "base_stat": 95
+            }
+        ]
+    },
+    {
+        "name": "poliwag",
+        "id": 60,
+        "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/60.png",
+        "base_experience": 60,
+        "types": [
+            "water"
+        ],
+        "height": 6,
+        "weight": 124,
+        "stats": [
+            {
+                "name": "hp",
+                "base_stat": 40
+            },
+            {
+                "name": "attack",
+                "base_stat": 50
+            },
+            {
+                "name": "defense",
+                "base_stat": 40
+            },
+            {
+                "name": "special-attack",
+                "base_stat": 40
+            },
+            {
+                "name": "special-defense",
+                "base_stat": 40
+            },
+            {
+                "name": "speed",
+                "base_stat": 90
+            }
+        ]
+    },
+    {
+        "name": "poliwhirl",
+        "id": 61,
+        "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/61.png",
+        "base_experience": 135,
+        "types": [
+            "water"
+        ],
+        "height": 10,
+        "weight": 200,
+        "stats": [
+            {
+                "name": "hp",
+                "base_stat": 65
+            },
+            {
+                "name": "attack",
+                "base_stat": 65
+            },
+            {
+                "name": "defense",
+                "base_stat": 65
+            },
+            {
+                "name": "special-attack",
+                "base_stat": 50
+            },
+            {
+                "name": "special-defense",
+                "base_stat": 50
+            },
+            {
+                "name": "speed",
+                "base_stat": 90
+            }
+        ]
+    },
+    {
+        "name": "poliwrath",
+        "id": 62,
+        "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/62.png",
+        "base_experience": 230,
+        "types": [
+            "water",
+            "fighting"
+        ],
+        "height": 13,
+        "weight": 540,
+        "stats": [
+            {
+                "name": "hp",
+                "base_stat": 90
+            },
+            {
+                "name": "attack",
+                "base_stat": 95
+            },
+            {
+                "name": "defense",
+                "base_stat": 95
+            },
+            {
+                "name": "special-attack",
+                "base_stat": 70
+            },
+            {
+                "name": "special-defense",
+                "base_stat": 90
+            },
+            {
+                "name": "speed",
+                "base_stat": 70
+            }
+        ]
+    },
+    {
+        "name": "abra",
+        "id": 63,
+        "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/63.png",
+        "base_experience": 62,
+        "types": [
+            "psychic"
+        ],
+        "height": 9,
+        "weight": 195,
+        "stats": [
+            {
+                "name": "hp",
+                "base_stat": 25
+            },
+            {
+                "name": "attack",
+                "base_stat": 20
+            },
+            {
+                "name": "defense",
+                "base_stat": 15
+            },
+            {
+                "name": "special-attack",
+                "base_stat": 105
+            },
+            {
+                "name": "special-defense",
+                "base_stat": 55
+            },
+            {
+                "name": "speed",
+                "base_stat": 90
+            }
+        ]
+    },
+    {
+        "name": "kadabra",
+        "id": 64,
+        "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/64.png",
+        "base_experience": 140,
+        "types": [
+            "psychic"
+        ],
+        "height": 13,
+        "weight": 565,
+        "stats": [
+            {
+                "name": "hp",
+                "base_stat": 40
+            },
+            {
+                "name": "attack",
+                "base_stat": 35
+            },
+            {
+                "name": "defense",
+                "base_stat": 30
+            },
+            {
+                "name": "special-attack",
+                "base_stat": 120
+            },
+            {
+                "name": "special-defense",
+                "base_stat": 70
+            },
+            {
+                "name": "speed",
+                "base_stat": 105
+            }
+        ]
+    },
+    {
+        "name": "alakazam",
+        "id": 65,
+        "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/65.png",
+        "base_experience": 225,
+        "types": [
+            "psychic"
+        ],
+        "height": 15,
+        "weight": 480,
+        "stats": [
+            {
+                "name": "hp",
+                "base_stat": 55
+            },
+            {
+                "name": "attack",
+                "base_stat": 50
+            },
+            {
+                "name": "defense",
+                "base_stat": 45
+            },
+            {
+                "name": "special-attack",
+                "base_stat": 135
+            },
+            {
+                "name": "special-defense",
+                "base_stat": 95
+            },
+            {
+                "name": "speed",
+                "base_stat": 120
+            }
+        ]
+    },
+    {
+        "name": "machop",
+        "id": 66,
+        "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/66.png",
+        "base_experience": 61,
+        "types": [
+            "fighting"
+        ],
+        "height": 8,
+        "weight": 195,
+        "stats": [
+            {
+                "name": "hp",
+                "base_stat": 70
+            },
+            {
+                "name": "attack",
+                "base_stat": 80
+            },
+            {
+                "name": "defense",
+                "base_stat": 50
+            },
+            {
+                "name": "special-attack",
+                "base_stat": 35
+            },
+            {
+                "name": "special-defense",
+                "base_stat": 35
+            },
+            {
+                "name": "speed",
+                "base_stat": 35
+            }
+        ]
+    },
+    {
+        "name": "machoke",
+        "id": 67,
+        "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/67.png",
+        "base_experience": 142,
+        "types": [
+            "fighting"
+        ],
+        "height": 15,
+        "weight": 705,
+        "stats": [
+            {
+                "name": "hp",
+                "base_stat": 80
+            },
+            {
+                "name": "attack",
+                "base_stat": 100
+            },
+            {
+                "name": "defense",
+                "base_stat": 70
+            },
+            {
+                "name": "special-attack",
+                "base_stat": 50
+            },
+            {
+                "name": "special-defense",
+                "base_stat": 60
+            },
+            {
+                "name": "speed",
+                "base_stat": 45
+            }
+        ]
+    },
+    {
+        "name": "machamp",
+        "id": 68,
+        "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/68.png",
+        "base_experience": 227,
+        "types": [
+            "fighting"
+        ],
+        "height": 16,
+        "weight": 1300,
+        "stats": [
+            {
+                "name": "hp",
+                "base_stat": 90
+            },
+            {
+                "name": "attack",
+                "base_stat": 130
+            },
+            {
+                "name": "defense",
+                "base_stat": 80
+            },
+            {
+                "name": "special-attack",
+                "base_stat": 65
+            },
+            {
+                "name": "special-defense",
+                "base_stat": 85
+            },
+            {
+                "name": "speed",
+                "base_stat": 55
+            }
+        ]
+    },
+    {
+        "name": "bellsprout",
+        "id": 69,
+        "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/69.png",
+        "base_experience": 60,
+        "types": [
+            "grass",
+            "poison"
+        ],
+        "height": 7,
+        "weight": 40,
+        "stats": [
+            {
+                "name": "hp",
+                "base_stat": 50
+            },
+            {
+                "name": "attack",
+                "base_stat": 75
+            },
+            {
+                "name": "defense",
+                "base_stat": 35
+            },
+            {
+                "name": "special-attack",
+                "base_stat": 70
+            },
+            {
+                "name": "special-defense",
+                "base_stat": 30
+            },
+            {
+                "name": "speed",
+                "base_stat": 40
+            }
+        ]
+    },
+    {
+        "name": "weepinbell",
+        "id": 70,
+        "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/70.png",
+        "base_experience": 137,
+        "types": [
+            "grass",
+            "poison"
+        ],
+        "height": 10,
+        "weight": 64,
+        "stats": [
+            {
+                "name": "hp",
+                "base_stat": 65
+            },
+            {
+                "name": "attack",
+                "base_stat": 90
+            },
+            {
+                "name": "defense",
+                "base_stat": 50
+            },
+            {
+                "name": "special-attack",
+                "base_stat": 85
+            },
+            {
+                "name": "special-defense",
+                "base_stat": 45
+            },
+            {
+                "name": "speed",
+                "base_stat": 55
+            }
+        ]
+    },
+    {
+        "name": "victreebel",
+        "id": 71,
+        "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/71.png",
+        "base_experience": 221,
+        "types": [
+            "grass",
+            "poison"
+        ],
+        "height": 17,
+        "weight": 155,
+        "stats": [
+            {
+                "name": "hp",
+                "base_stat": 80
+            },
+            {
+                "name": "attack",
+                "base_stat": 105
+            },
+            {
+                "name": "defense",
+                "base_stat": 65
+            },
+            {
+                "name": "special-attack",
+                "base_stat": 100
+            },
+            {
+                "name": "special-defense",
+                "base_stat": 70
+            },
+            {
+                "name": "speed",
+                "base_stat": 70
+            }
+        ]
+    },
+    {
+        "name": "tentacool",
+        "id": 72,
+        "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/72.png",
+        "base_experience": 67,
+        "types": [
+            "water",
+            "poison"
+        ],
+        "height": 9,
+        "weight": 455,
+        "stats": [
+            {
+                "name": "hp",
+                "base_stat": 40
+            },
+            {
+                "name": "attack",
+                "base_stat": 40
+            },
+            {
+                "name": "defense",
+                "base_stat": 35
+            },
+            {
+                "name": "special-attack",
+                "base_stat": 50
+            },
+            {
+                "name": "special-defense",
+                "base_stat": 100
+            },
+            {
+                "name": "speed",
+                "base_stat": 70
+            }
+        ]
+    },
+    {
+        "name": "tentacruel",
+        "id": 73,
+        "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/73.png",
+        "base_experience": 180,
+        "types": [
+            "water",
+            "poison"
+        ],
+        "height": 16,
+        "weight": 550,
+        "stats": [
+            {
+                "name": "hp",
+                "base_stat": 80
+            },
+            {
+                "name": "attack",
+                "base_stat": 70
+            },
+            {
+                "name": "defense",
+                "base_stat": 65
+            },
+            {
+                "name": "special-attack",
+                "base_stat": 80
+            },
+            {
+                "name": "special-defense",
+                "base_stat": 120
+            },
+            {
+                "name": "speed",
+                "base_stat": 100
+            }
+        ]
+    },
+    {
+        "name": "geodude",
+        "id": 74,
+        "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/74.png",
+        "base_experience": 60,
+        "types": [
+            "rock",
+            "ground"
+        ],
+        "height": 4,
+        "weight": 200,
+        "stats": [
+            {
+                "name": "hp",
+                "base_stat": 40
+            },
+            {
+                "name": "attack",
+                "base_stat": 80
+            },
+            {
+                "name": "defense",
+                "base_stat": 100
+            },
+            {
+                "name": "special-attack",
+                "base_stat": 30
+            },
+            {
+                "name": "special-defense",
+                "base_stat": 30
+            },
+            {
+                "name": "speed",
+                "base_stat": 20
+            }
+        ]
+    },
+    {
+        "name": "graveler",
+        "id": 75,
+        "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/75.png",
+        "base_experience": 137,
+        "types": [
+            "rock",
+            "ground"
+        ],
+        "height": 10,
+        "weight": 1050,
+        "stats": [
+            {
+                "name": "hp",
+                "base_stat": 55
+            },
+            {
+                "name": "attack",
+                "base_stat": 95
+            },
+            {
+                "name": "defense",
+                "base_stat": 115
+            },
+            {
+                "name": "special-attack",
+                "base_stat": 45
+            },
+            {
+                "name": "special-defense",
+                "base_stat": 45
+            },
+            {
+                "name": "speed",
+                "base_stat": 35
+            }
+        ]
+    },
+    {
+        "name": "golem",
+        "id": 76,
+        "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/76.png",
+        "base_experience": 223,
+        "types": [
+            "rock",
+            "ground"
+        ],
+        "height": 14,
+        "weight": 3000,
+        "stats": [
+            {
+                "name": "hp",
+                "base_stat": 80
+            },
+            {
+                "name": "attack",
+                "base_stat": 120
+            },
+            {
+                "name": "defense",
+                "base_stat": 130
+            },
+            {
+                "name": "special-attack",
+                "base_stat": 55
+            },
+            {
+                "name": "special-defense",
+                "base_stat": 65
+            },
+            {
+                "name": "speed",
+                "base_stat": 45
+            }
+        ]
+    },
+    {
+        "name": "ponyta",
+        "id": 77,
+        "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/77.png",
+        "base_experience": 82,
+        "types": [
+            "fire"
+        ],
+        "height": 10,
+        "weight": 300,
+        "stats": [
+            {
+                "name": "hp",
+                "base_stat": 50
+            },
+            {
+                "name": "attack",
+                "base_stat": 85
+            },
+            {
+                "name": "defense",
+                "base_stat": 55
+            },
+            {
+                "name": "special-attack",
+                "base_stat": 65
+            },
+            {
+                "name": "special-defense",
+                "base_stat": 65
+            },
+            {
+                "name": "speed",
+                "base_stat": 90
+            }
+        ]
+    },
+    {
+        "name": "rapidash",
+        "id": 78,
+        "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/78.png",
+        "base_experience": 175,
+        "types": [
+            "fire"
+        ],
+        "height": 17,
+        "weight": 950,
+        "stats": [
+            {
+                "name": "hp",
+                "base_stat": 65
+            },
+            {
+                "name": "attack",
+                "base_stat": 100
+            },
+            {
+                "name": "defense",
+                "base_stat": 70
+            },
+            {
+                "name": "special-attack",
+                "base_stat": 80
+            },
+            {
+                "name": "special-defense",
+                "base_stat": 80
+            },
+            {
+                "name": "speed",
+                "base_stat": 105
+            }
+        ]
+    },
+    {
+        "name": "slowpoke",
+        "id": 79,
+        "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/79.png",
+        "base_experience": 63,
+        "types": [
+            "water",
+            "psychic"
+        ],
+        "height": 12,
+        "weight": 360,
+        "stats": [
+            {
+                "name": "hp",
+                "base_stat": 90
+            },
+            {
+                "name": "attack",
+                "base_stat": 65
+            },
+            {
+                "name": "defense",
+                "base_stat": 65
+            },
+            {
+                "name": "special-attack",
+                "base_stat": 40
+            },
+            {
+                "name": "special-defense",
+                "base_stat": 40
+            },
+            {
+                "name": "speed",
+                "base_stat": 15
+            }
+        ]
+    },
+    {
+        "name": "slowbro",
+        "id": 80,
+        "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/80.png",
+        "base_experience": 172,
+        "types": [
+            "water",
+            "psychic"
+        ],
+        "height": 16,
+        "weight": 785,
+        "stats": [
+            {
+                "name": "hp",
+                "base_stat": 95
+            },
+            {
+                "name": "attack",
+                "base_stat": 75
+            },
+            {
+                "name": "defense",
+                "base_stat": 110
+            },
+            {
+                "name": "special-attack",
+                "base_stat": 100
+            },
+            {
+                "name": "special-defense",
+                "base_stat": 80
+            },
+            {
+                "name": "speed",
+                "base_stat": 30
+            }
+        ]
+    },
+    {
+        "name": "magnemite",
+        "id": 81,
+        "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/81.png",
+        "base_experience": 65,
+        "types": [
+            "electric",
+            "steel"
+        ],
+        "height": 3,
+        "weight": 60,
+        "stats": [
+            {
+                "name": "hp",
+                "base_stat": 25
+            },
+            {
+                "name": "attack",
+                "base_stat": 35
+            },
+            {
+                "name": "defense",
+                "base_stat": 70
+            },
+            {
+                "name": "special-attack",
+                "base_stat": 95
+            },
+            {
+                "name": "special-defense",
+                "base_stat": 55
+            },
+            {
+                "name": "speed",
+                "base_stat": 45
+            }
+        ]
+    },
+    {
+        "name": "magneton",
+        "id": 82,
+        "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/82.png",
+        "base_experience": 163,
+        "types": [
+            "electric",
+            "steel"
+        ],
+        "height": 10,
+        "weight": 600,
+        "stats": [
+            {
+                "name": "hp",
+                "base_stat": 50
+            },
+            {
+                "name": "attack",
+                "base_stat": 60
+            },
+            {
+                "name": "defense",
+                "base_stat": 95
+            },
+            {
+                "name": "special-attack",
+                "base_stat": 120
+            },
+            {
+                "name": "special-defense",
+                "base_stat": 70
+            },
+            {
+                "name": "speed",
+                "base_stat": 70
+            }
+        ]
+    },
+    {
+        "name": "farfetchd",
+        "id": 83,
+        "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/83.png",
+        "base_experience": 132,
+        "types": [
+            "normal",
+            "flying"
+        ],
+        "height": 8,
+        "weight": 150,
+        "stats": [
+            {
+                "name": "hp",
+                "base_stat": 52
+            },
+            {
+                "name": "attack",
+                "base_stat": 90
+            },
+            {
+                "name": "defense",
+                "base_stat": 55
+            },
+            {
+                "name": "special-attack",
+                "base_stat": 58
+            },
+            {
+                "name": "special-defense",
+                "base_stat": 62
+            },
+            {
+                "name": "speed",
+                "base_stat": 60
+            }
+        ]
+    },
+    {
+        "name": "doduo",
+        "id": 84,
+        "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/84.png",
+        "base_experience": 62,
+        "types": [
+            "normal",
+            "flying"
+        ],
+        "height": 14,
+        "weight": 392,
+        "stats": [
+            {
+                "name": "hp",
+                "base_stat": 35
+            },
+            {
+                "name": "attack",
+                "base_stat": 85
+            },
+            {
+                "name": "defense",
+                "base_stat": 45
+            },
+            {
+                "name": "special-attack",
+                "base_stat": 35
+            },
+            {
+                "name": "special-defense",
+                "base_stat": 35
+            },
+            {
+                "name": "speed",
+                "base_stat": 75
+            }
+        ]
+    },
+    {
+        "name": "dodrio",
+        "id": 85,
+        "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/85.png",
+        "base_experience": 165,
+        "types": [
+            "normal",
+            "flying"
+        ],
+        "height": 18,
+        "weight": 852,
+        "stats": [
+            {
+                "name": "hp",
+                "base_stat": 60
+            },
+            {
+                "name": "attack",
+                "base_stat": 110
+            },
+            {
+                "name": "defense",
+                "base_stat": 70
+            },
+            {
+                "name": "special-attack",
+                "base_stat": 60
+            },
+            {
+                "name": "special-defense",
+                "base_stat": 60
+            },
+            {
+                "name": "speed",
+                "base_stat": 110
+            }
+        ]
+    },
+    {
+        "name": "seel",
+        "id": 86,
+        "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/86.png",
+        "base_experience": 65,
+        "types": [
+            "water"
+        ],
+        "height": 11,
+        "weight": 900,
+        "stats": [
+            {
+                "name": "hp",
+                "base_stat": 65
+            },
+            {
+                "name": "attack",
+                "base_stat": 45
+            },
+            {
+                "name": "defense",
+                "base_stat": 55
+            },
+            {
+                "name": "special-attack",
+                "base_stat": 45
+            },
+            {
+                "name": "special-defense",
+                "base_stat": 70
+            },
+            {
+                "name": "speed",
+                "base_stat": 45
+            }
+        ]
+    },
+    {
+        "name": "dewgong",
+        "id": 87,
+        "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/87.png",
+        "base_experience": 166,
+        "types": [
+            "water",
+            "ice"
+        ],
+        "height": 17,
+        "weight": 1200,
+        "stats": [
+            {
+                "name": "hp",
+                "base_stat": 90
+            },
+            {
+                "name": "attack",
+                "base_stat": 70
+            },
+            {
+                "name": "defense",
+                "base_stat": 80
+            },
+            {
+                "name": "special-attack",
+                "base_stat": 70
+            },
+            {
+                "name": "special-defense",
+                "base_stat": 95
+            },
+            {
+                "name": "speed",
+                "base_stat": 70
+            }
+        ]
+    },
+    {
+        "name": "grimer",
+        "id": 88,
+        "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/88.png",
+        "base_experience": 65,
+        "types": [
+            "poison"
+        ],
+        "height": 9,
+        "weight": 300,
+        "stats": [
+            {
+                "name": "hp",
+                "base_stat": 80
+            },
+            {
+                "name": "attack",
+                "base_stat": 80
+            },
+            {
+                "name": "defense",
+                "base_stat": 50
+            },
+            {
+                "name": "special-attack",
+                "base_stat": 40
+            },
+            {
+                "name": "special-defense",
+                "base_stat": 50
+            },
+            {
+                "name": "speed",
+                "base_stat": 25
+            }
+        ]
+    },
+    {
+        "name": "muk",
+        "id": 89,
+        "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/89.png",
+        "base_experience": 175,
+        "types": [
+            "poison"
+        ],
+        "height": 12,
+        "weight": 300,
+        "stats": [
+            {
+                "name": "hp",
+                "base_stat": 105
+            },
+            {
+                "name": "attack",
+                "base_stat": 105
+            },
+            {
+                "name": "defense",
+                "base_stat": 75
+            },
+            {
+                "name": "special-attack",
+                "base_stat": 65
+            },
+            {
+                "name": "special-defense",
+                "base_stat": 100
+            },
+            {
+                "name": "speed",
+                "base_stat": 50
+            }
+        ]
+    },
+    {
+        "name": "shellder",
+        "id": 90,
+        "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/90.png",
+        "base_experience": 61,
+        "types": [
+            "water"
+        ],
+        "height": 3,
+        "weight": 40,
+        "stats": [
+            {
+                "name": "hp",
+                "base_stat": 30
+            },
+            {
+                "name": "attack",
+                "base_stat": 65
+            },
+            {
+                "name": "defense",
+                "base_stat": 100
+            },
+            {
+                "name": "special-attack",
+                "base_stat": 45
+            },
+            {
+                "name": "special-defense",
+                "base_stat": 25
+            },
+            {
+                "name": "speed",
+                "base_stat": 40
+            }
+        ]
+    },
+    {
+        "name": "cloyster",
+        "id": 91,
+        "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/91.png",
+        "base_experience": 184,
+        "types": [
+            "water",
+            "ice"
+        ],
+        "height": 15,
+        "weight": 1325,
+        "stats": [
+            {
+                "name": "hp",
+                "base_stat": 50
+            },
+            {
+                "name": "attack",
+                "base_stat": 95
+            },
+            {
+                "name": "defense",
+                "base_stat": 180
+            },
+            {
+                "name": "special-attack",
+                "base_stat": 85
+            },
+            {
+                "name": "special-defense",
+                "base_stat": 45
+            },
+            {
+                "name": "speed",
+                "base_stat": 70
+            }
+        ]
+    },
+    {
+        "name": "gastly",
+        "id": 92,
+        "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/92.png",
+        "base_experience": 62,
+        "types": [
+            "ghost",
+            "poison"
+        ],
+        "height": 13,
+        "weight": 1,
+        "stats": [
+            {
+                "name": "hp",
+                "base_stat": 30
+            },
+            {
+                "name": "attack",
+                "base_stat": 35
+            },
+            {
+                "name": "defense",
+                "base_stat": 30
+            },
+            {
+                "name": "special-attack",
+                "base_stat": 100
+            },
+            {
+                "name": "special-defense",
+                "base_stat": 35
+            },
+            {
+                "name": "speed",
+                "base_stat": 80
+            }
+        ]
+    },
+    {
+        "name": "haunter",
+        "id": 93,
+        "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/93.png",
+        "base_experience": 142,
+        "types": [
+            "ghost",
+            "poison"
+        ],
+        "height": 16,
+        "weight": 1,
+        "stats": [
+            {
+                "name": "hp",
+                "base_stat": 45
+            },
+            {
+                "name": "attack",
+                "base_stat": 50
+            },
+            {
+                "name": "defense",
+                "base_stat": 45
+            },
+            {
+                "name": "special-attack",
+                "base_stat": 115
+            },
+            {
+                "name": "special-defense",
+                "base_stat": 55
+            },
+            {
+                "name": "speed",
+                "base_stat": 95
+            }
+        ]
+    },
+    {
+        "name": "gengar",
+        "id": 94,
+        "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/94.png",
+        "base_experience": 225,
+        "types": [
+            "ghost",
+            "poison"
+        ],
+        "height": 15,
+        "weight": 405,
+        "stats": [
+            {
+                "name": "hp",
+                "base_stat": 60
+            },
+            {
+                "name": "attack",
+                "base_stat": 65
+            },
+            {
+                "name": "defense",
+                "base_stat": 60
+            },
+            {
+                "name": "special-attack",
+                "base_stat": 130
+            },
+            {
+                "name": "special-defense",
+                "base_stat": 75
+            },
+            {
+                "name": "speed",
+                "base_stat": 110
+            }
+        ]
+    },
+    {
+        "name": "onix",
+        "id": 95,
+        "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/95.png",
+        "base_experience": 77,
+        "types": [
+            "rock",
+            "ground"
+        ],
+        "height": 88,
+        "weight": 2100,
+        "stats": [
+            {
+                "name": "hp",
+                "base_stat": 35
+            },
+            {
+                "name": "attack",
+                "base_stat": 45
+            },
+            {
+                "name": "defense",
+                "base_stat": 160
+            },
+            {
+                "name": "special-attack",
+                "base_stat": 30
+            },
+            {
+                "name": "special-defense",
+                "base_stat": 45
+            },
+            {
+                "name": "speed",
+                "base_stat": 70
+            }
+        ]
+    },
+    {
+        "name": "drowzee",
+        "id": 96,
+        "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/96.png",
+        "base_experience": 66,
+        "types": [
+            "psychic"
+        ],
+        "height": 10,
+        "weight": 324,
+        "stats": [
+            {
+                "name": "hp",
+                "base_stat": 60
+            },
+            {
+                "name": "attack",
+                "base_stat": 48
+            },
+            {
+                "name": "defense",
+                "base_stat": 45
+            },
+            {
+                "name": "special-attack",
+                "base_stat": 43
+            },
+            {
+                "name": "special-defense",
+                "base_stat": 90
+            },
+            {
+                "name": "speed",
+                "base_stat": 42
+            }
+        ]
+    },
+    {
+        "name": "hypno",
+        "id": 97,
+        "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/97.png",
+        "base_experience": 169,
+        "types": [
+            "psychic"
+        ],
+        "height": 16,
+        "weight": 756,
+        "stats": [
+            {
+                "name": "hp",
+                "base_stat": 85
+            },
+            {
+                "name": "attack",
+                "base_stat": 73
+            },
+            {
+                "name": "defense",
+                "base_stat": 70
+            },
+            {
+                "name": "special-attack",
+                "base_stat": 73
+            },
+            {
+                "name": "special-defense",
+                "base_stat": 115
+            },
+            {
+                "name": "speed",
+                "base_stat": 67
+            }
+        ]
+    },
+    {
+        "name": "krabby",
+        "id": 98,
+        "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/98.png",
+        "base_experience": 65,
+        "types": [
+            "water"
+        ],
+        "height": 4,
+        "weight": 65,
+        "stats": [
+            {
+                "name": "hp",
+                "base_stat": 30
+            },
+            {
+                "name": "attack",
+                "base_stat": 105
+            },
+            {
+                "name": "defense",
+                "base_stat": 90
+            },
+            {
+                "name": "special-attack",
+                "base_stat": 25
+            },
+            {
+                "name": "special-defense",
+                "base_stat": 25
+            },
+            {
+                "name": "speed",
+                "base_stat": 50
+            }
+        ]
+    },
+    {
+        "name": "kingler",
+        "id": 99,
+        "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/99.png",
+        "base_experience": 166,
+        "types": [
+            "water"
+        ],
+        "height": 13,
+        "weight": 600,
+        "stats": [
+            {
+                "name": "hp",
+                "base_stat": 55
+            },
+            {
+                "name": "attack",
+                "base_stat": 130
+            },
+            {
+                "name": "defense",
+                "base_stat": 115
+            },
+            {
+                "name": "special-attack",
+                "base_stat": 50
+            },
+            {
+                "name": "special-defense",
+                "base_stat": 50
+            },
+            {
+                "name": "speed",
+                "base_stat": 75
+            }
+        ]
+    },
+    {
+        "name": "voltorb",
+        "id": 100,
+        "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/100.png",
+        "base_experience": 66,
+        "types": [
+            "electric"
+        ],
+        "height": 5,
+        "weight": 104,
+        "stats": [
+            {
+                "name": "hp",
+                "base_stat": 40
+            },
+            {
+                "name": "attack",
+                "base_stat": 30
+            },
+            {
+                "name": "defense",
+                "base_stat": 50
+            },
+            {
+                "name": "special-attack",
+                "base_stat": 55
+            },
+            {
+                "name": "special-defense",
+                "base_stat": 55
+            },
+            {
+                "name": "speed",
+                "base_stat": 100
+            }
+        ]
+    },
+    {
+        "name": "electrode",
+        "id": 101,
+        "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/101.png",
+        "base_experience": 172,
+        "types": [
+            "electric"
+        ],
+        "height": 12,
+        "weight": 666,
+        "stats": [
+            {
+                "name": "hp",
+                "base_stat": 60
+            },
+            {
+                "name": "attack",
+                "base_stat": 50
+            },
+            {
+                "name": "defense",
+                "base_stat": 70
+            },
+            {
+                "name": "special-attack",
+                "base_stat": 80
+            },
+            {
+                "name": "special-defense",
+                "base_stat": 80
+            },
+            {
+                "name": "speed",
+                "base_stat": 150
+            }
+        ]
+    },
+    {
+        "name": "exeggcute",
+        "id": 102,
+        "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/102.png",
+        "base_experience": 65,
+        "types": [
+            "grass",
+            "psychic"
+        ],
+        "height": 4,
+        "weight": 25,
+        "stats": [
+            {
+                "name": "hp",
+                "base_stat": 60
+            },
+            {
+                "name": "attack",
+                "base_stat": 40
+            },
+            {
+                "name": "defense",
+                "base_stat": 80
+            },
+            {
+                "name": "special-attack",
+                "base_stat": 60
+            },
+            {
+                "name": "special-defense",
+                "base_stat": 45
+            },
+            {
+                "name": "speed",
+                "base_stat": 40
+            }
+        ]
+    },
+    {
+        "name": "exeggutor",
+        "id": 103,
+        "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/103.png",
+        "base_experience": 186,
+        "types": [
+            "grass",
+            "psychic"
+        ],
+        "height": 20,
+        "weight": 1200,
+        "stats": [
+            {
+                "name": "hp",
+                "base_stat": 95
+            },
+            {
+                "name": "attack",
+                "base_stat": 95
+            },
+            {
+                "name": "defense",
+                "base_stat": 85
+            },
+            {
+                "name": "special-attack",
+                "base_stat": 125
+            },
+            {
+                "name": "special-defense",
+                "base_stat": 75
+            },
+            {
+                "name": "speed",
+                "base_stat": 55
+            }
+        ]
+    },
+    {
+        "name": "cubone",
+        "id": 104,
+        "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/104.png",
+        "base_experience": 64,
+        "types": [
+            "ground"
+        ],
+        "height": 4,
+        "weight": 65,
+        "stats": [
+            {
+                "name": "hp",
+                "base_stat": 50
+            },
+            {
+                "name": "attack",
+                "base_stat": 50
+            },
+            {
+                "name": "defense",
+                "base_stat": 95
+            },
+            {
+                "name": "special-attack",
+                "base_stat": 40
+            },
+            {
+                "name": "special-defense",
+                "base_stat": 50
+            },
+            {
+                "name": "speed",
+                "base_stat": 35
+            }
+        ]
+    },
+    {
+        "name": "marowak",
+        "id": 105,
+        "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/105.png",
+        "base_experience": 149,
+        "types": [
+            "ground"
+        ],
+        "height": 10,
+        "weight": 450,
+        "stats": [
+            {
+                "name": "hp",
+                "base_stat": 60
+            },
+            {
+                "name": "attack",
+                "base_stat": 80
+            },
+            {
+                "name": "defense",
+                "base_stat": 110
+            },
+            {
+                "name": "special-attack",
+                "base_stat": 50
+            },
+            {
+                "name": "special-defense",
+                "base_stat": 80
+            },
+            {
+                "name": "speed",
+                "base_stat": 45
+            }
+        ]
+    },
+    {
+        "name": "hitmonlee",
+        "id": 106,
+        "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/106.png",
+        "base_experience": 159,
+        "types": [
+            "fighting"
+        ],
+        "height": 15,
+        "weight": 498,
+        "stats": [
+            {
+                "name": "hp",
+                "base_stat": 50
+            },
+            {
+                "name": "attack",
+                "base_stat": 120
+            },
+            {
+                "name": "defense",
+                "base_stat": 53
+            },
+            {
+                "name": "special-attack",
+                "base_stat": 35
+            },
+            {
+                "name": "special-defense",
+                "base_stat": 110
+            },
+            {
+                "name": "speed",
+                "base_stat": 87
+            }
+        ]
+    },
+    {
+        "name": "hitmonchan",
+        "id": 107,
+        "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/107.png",
+        "base_experience": 159,
+        "types": [
+            "fighting"
+        ],
+        "height": 14,
+        "weight": 502,
+        "stats": [
+            {
+                "name": "hp",
+                "base_stat": 50
+            },
+            {
+                "name": "attack",
+                "base_stat": 105
+            },
+            {
+                "name": "defense",
+                "base_stat": 79
+            },
+            {
+                "name": "special-attack",
+                "base_stat": 35
+            },
+            {
+                "name": "special-defense",
+                "base_stat": 110
+            },
+            {
+                "name": "speed",
+                "base_stat": 76
+            }
+        ]
+    },
+    {
+        "name": "lickitung",
+        "id": 108,
+        "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/108.png",
+        "base_experience": 77,
+        "types": [
+            "normal"
+        ],
+        "height": 12,
+        "weight": 655,
+        "stats": [
+            {
+                "name": "hp",
+                "base_stat": 90
+            },
+            {
+                "name": "attack",
+                "base_stat": 55
+            },
+            {
+                "name": "defense",
+                "base_stat": 75
+            },
+            {
+                "name": "special-attack",
+                "base_stat": 60
+            },
+            {
+                "name": "special-defense",
+                "base_stat": 75
+            },
+            {
+                "name": "speed",
+                "base_stat": 30
+            }
+        ]
+    },
+    {
+        "name": "koffing",
+        "id": 109,
+        "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/109.png",
+        "base_experience": 68,
+        "types": [
+            "poison"
+        ],
+        "height": 6,
+        "weight": 10,
+        "stats": [
+            {
+                "name": "hp",
+                "base_stat": 40
+            },
+            {
+                "name": "attack",
+                "base_stat": 65
+            },
+            {
+                "name": "defense",
+                "base_stat": 95
+            },
+            {
+                "name": "special-attack",
+                "base_stat": 60
+            },
+            {
+                "name": "special-defense",
+                "base_stat": 45
+            },
+            {
+                "name": "speed",
+                "base_stat": 35
+            }
+        ]
+    },
+    {
+        "name": "weezing",
+        "id": 110,
+        "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/110.png",
+        "base_experience": 172,
+        "types": [
+            "poison"
+        ],
+        "height": 12,
+        "weight": 95,
+        "stats": [
+            {
+                "name": "hp",
+                "base_stat": 65
+            },
+            {
+                "name": "attack",
+                "base_stat": 90
+            },
+            {
+                "name": "defense",
+                "base_stat": 120
+            },
+            {
+                "name": "special-attack",
+                "base_stat": 85
+            },
+            {
+                "name": "special-defense",
+                "base_stat": 70
+            },
+            {
+                "name": "speed",
+                "base_stat": 60
+            }
+        ]
+    },
+    {
+        "name": "rhyhorn",
+        "id": 111,
+        "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/111.png",
+        "base_experience": 69,
+        "types": [
+            "ground",
+            "rock"
+        ],
+        "height": 10,
+        "weight": 1150,
+        "stats": [
+            {
+                "name": "hp",
+                "base_stat": 80
+            },
+            {
+                "name": "attack",
+                "base_stat": 85
+            },
+            {
+                "name": "defense",
+                "base_stat": 95
+            },
+            {
+                "name": "special-attack",
+                "base_stat": 30
+            },
+            {
+                "name": "special-defense",
+                "base_stat": 30
+            },
+            {
+                "name": "speed",
+                "base_stat": 25
+            }
+        ]
+    },
+    {
+        "name": "rhydon",
+        "id": 112,
+        "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/112.png",
+        "base_experience": 170,
+        "types": [
+            "ground",
+            "rock"
+        ],
+        "height": 19,
+        "weight": 1200,
+        "stats": [
+            {
+                "name": "hp",
+                "base_stat": 105
+            },
+            {
+                "name": "attack",
+                "base_stat": 130
+            },
+            {
+                "name": "defense",
+                "base_stat": 120
+            },
+            {
+                "name": "special-attack",
+                "base_stat": 45
+            },
+            {
+                "name": "special-defense",
+                "base_stat": 45
+            },
+            {
+                "name": "speed",
+                "base_stat": 40
+            }
+        ]
+    },
+    {
+        "name": "chansey",
+        "id": 113,
+        "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/113.png",
+        "base_experience": 395,
+        "types": [
+            "normal"
+        ],
+        "height": 11,
+        "weight": 346,
+        "stats": [
+            {
+                "name": "hp",
+                "base_stat": 250
+            },
+            {
+                "name": "attack",
+                "base_stat": 5
+            },
+            {
+                "name": "defense",
+                "base_stat": 5
+            },
+            {
+                "name": "special-attack",
+                "base_stat": 35
+            },
+            {
+                "name": "special-defense",
+                "base_stat": 105
+            },
+            {
+                "name": "speed",
+                "base_stat": 50
+            }
+        ]
+    },
+    {
+        "name": "tangela",
+        "id": 114,
+        "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/114.png",
+        "base_experience": 87,
+        "types": [
+            "grass"
+        ],
+        "height": 10,
+        "weight": 350,
+        "stats": [
+            {
+                "name": "hp",
+                "base_stat": 65
+            },
+            {
+                "name": "attack",
+                "base_stat": 55
+            },
+            {
+                "name": "defense",
+                "base_stat": 115
+            },
+            {
+                "name": "special-attack",
+                "base_stat": 100
+            },
+            {
+                "name": "special-defense",
+                "base_stat": 40
+            },
+            {
+                "name": "speed",
+                "base_stat": 60
+            }
+        ]
+    },
+    {
+        "name": "kangaskhan",
+        "id": 115,
+        "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/115.png",
+        "base_experience": 172,
+        "types": [
+            "normal"
+        ],
+        "height": 22,
+        "weight": 800,
+        "stats": [
+            {
+                "name": "hp",
+                "base_stat": 105
+            },
+            {
+                "name": "attack",
+                "base_stat": 95
+            },
+            {
+                "name": "defense",
+                "base_stat": 80
+            },
+            {
+                "name": "special-attack",
+                "base_stat": 40
+            },
+            {
+                "name": "special-defense",
+                "base_stat": 80
+            },
+            {
+                "name": "speed",
+                "base_stat": 90
+            }
+        ]
+    },
+    {
+        "name": "horsea",
+        "id": 116,
+        "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/116.png",
+        "base_experience": 59,
+        "types": [
+            "water"
+        ],
+        "height": 4,
+        "weight": 80,
+        "stats": [
+            {
+                "name": "hp",
+                "base_stat": 30
+            },
+            {
+                "name": "attack",
+                "base_stat": 40
+            },
+            {
+                "name": "defense",
+                "base_stat": 70
+            },
+            {
+                "name": "special-attack",
+                "base_stat": 70
+            },
+            {
+                "name": "special-defense",
+                "base_stat": 25
+            },
+            {
+                "name": "speed",
+                "base_stat": 60
+            }
+        ]
+    },
+    {
+        "name": "seadra",
+        "id": 117,
+        "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/117.png",
+        "base_experience": 154,
+        "types": [
+            "water"
+        ],
+        "height": 12,
+        "weight": 250,
+        "stats": [
+            {
+                "name": "hp",
+                "base_stat": 55
+            },
+            {
+                "name": "attack",
+                "base_stat": 65
+            },
+            {
+                "name": "defense",
+                "base_stat": 95
+            },
+            {
+                "name": "special-attack",
+                "base_stat": 95
+            },
+            {
+                "name": "special-defense",
+                "base_stat": 45
+            },
+            {
+                "name": "speed",
+                "base_stat": 85
+            }
+        ]
+    },
+    {
+        "name": "goldeen",
+        "id": 118,
+        "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/118.png",
+        "base_experience": 64,
+        "types": [
+            "water"
+        ],
+        "height": 6,
+        "weight": 150,
+        "stats": [
+            {
+                "name": "hp",
+                "base_stat": 45
+            },
+            {
+                "name": "attack",
+                "base_stat": 67
+            },
+            {
+                "name": "defense",
+                "base_stat": 60
+            },
+            {
+                "name": "special-attack",
+                "base_stat": 35
+            },
+            {
+                "name": "special-defense",
+                "base_stat": 50
+            },
+            {
+                "name": "speed",
+                "base_stat": 63
+            }
+        ]
+    },
+    {
+        "name": "seaking",
+        "id": 119,
+        "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/119.png",
+        "base_experience": 158,
+        "types": [
+            "water"
+        ],
+        "height": 13,
+        "weight": 390,
+        "stats": [
+            {
+                "name": "hp",
+                "base_stat": 80
+            },
+            {
+                "name": "attack",
+                "base_stat": 92
+            },
+            {
+                "name": "defense",
+                "base_stat": 65
+            },
+            {
+                "name": "special-attack",
+                "base_stat": 65
+            },
+            {
+                "name": "special-defense",
+                "base_stat": 80
+            },
+            {
+                "name": "speed",
+                "base_stat": 68
+            }
+        ]
+    },
+    {
+        "name": "staryu",
+        "id": 120,
+        "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/120.png",
+        "base_experience": 68,
+        "types": [
+            "water"
+        ],
+        "height": 8,
+        "weight": 345,
+        "stats": [
+            {
+                "name": "hp",
+                "base_stat": 30
+            },
+            {
+                "name": "attack",
+                "base_stat": 45
+            },
+            {
+                "name": "defense",
+                "base_stat": 55
+            },
+            {
+                "name": "special-attack",
+                "base_stat": 70
+            },
+            {
+                "name": "special-defense",
+                "base_stat": 55
+            },
+            {
+                "name": "speed",
+                "base_stat": 85
+            }
+        ]
+    },
+    {
+        "name": "starmie",
+        "id": 121,
+        "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/121.png",
+        "base_experience": 182,
+        "types": [
+            "water",
+            "psychic"
+        ],
+        "height": 11,
+        "weight": 800,
+        "stats": [
+            {
+                "name": "hp",
+                "base_stat": 60
+            },
+            {
+                "name": "attack",
+                "base_stat": 75
+            },
+            {
+                "name": "defense",
+                "base_stat": 85
+            },
+            {
+                "name": "special-attack",
+                "base_stat": 100
+            },
+            {
+                "name": "special-defense",
+                "base_stat": 85
+            },
+            {
+                "name": "speed",
+                "base_stat": 115
+            }
+        ]
+    },
+    {
+        "name": "mr-mime",
+        "id": 122,
+        "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/122.png",
+        "base_experience": 161,
+        "types": [
+            "psychic",
+            "fairy"
+        ],
+        "height": 13,
+        "weight": 545,
+        "stats": [
+            {
+                "name": "hp",
+                "base_stat": 40
+            },
+            {
+                "name": "attack",
+                "base_stat": 45
+            },
+            {
+                "name": "defense",
+                "base_stat": 65
+            },
+            {
+                "name": "special-attack",
+                "base_stat": 100
+            },
+            {
+                "name": "special-defense",
+                "base_stat": 120
+            },
+            {
+                "name": "speed",
+                "base_stat": 90
+            }
+        ]
+    },
+    {
+        "name": "scyther",
+        "id": 123,
+        "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/123.png",
+        "base_experience": 100,
+        "types": [
+            "bug",
+            "flying"
+        ],
+        "height": 15,
+        "weight": 560,
+        "stats": [
+            {
+                "name": "hp",
+                "base_stat": 70
+            },
+            {
+                "name": "attack",
+                "base_stat": 110
+            },
+            {
+                "name": "defense",
+                "base_stat": 80
+            },
+            {
+                "name": "special-attack",
+                "base_stat": 55
+            },
+            {
+                "name": "special-defense",
+                "base_stat": 80
+            },
+            {
+                "name": "speed",
+                "base_stat": 105
+            }
+        ]
+    },
+    {
+        "name": "jynx",
+        "id": 124,
+        "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/124.png",
+        "base_experience": 159,
+        "types": [
+            "ice",
+            "psychic"
+        ],
+        "height": 14,
+        "weight": 406,
+        "stats": [
+            {
+                "name": "hp",
+                "base_stat": 65
+            },
+            {
+                "name": "attack",
+                "base_stat": 50
+            },
+            {
+                "name": "defense",
+                "base_stat": 35
+            },
+            {
+                "name": "special-attack",
+                "base_stat": 115
+            },
+            {
+                "name": "special-defense",
+                "base_stat": 95
+            },
+            {
+                "name": "speed",
+                "base_stat": 95
+            }
+        ]
+    },
+    {
+        "name": "electabuzz",
+        "id": 125,
+        "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/125.png",
+        "base_experience": 172,
+        "types": [
+            "electric"
+        ],
+        "height": 11,
+        "weight": 300,
+        "stats": [
+            {
+                "name": "hp",
+                "base_stat": 65
+            },
+            {
+                "name": "attack",
+                "base_stat": 83
+            },
+            {
+                "name": "defense",
+                "base_stat": 57
+            },
+            {
+                "name": "special-attack",
+                "base_stat": 95
+            },
+            {
+                "name": "special-defense",
+                "base_stat": 85
+            },
+            {
+                "name": "speed",
+                "base_stat": 105
+            }
+        ]
+    },
+    {
+        "name": "magmar",
+        "id": 126,
+        "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/126.png",
+        "base_experience": 173,
+        "types": [
+            "fire"
+        ],
+        "height": 13,
+        "weight": 445,
+        "stats": [
+            {
+                "name": "hp",
+                "base_stat": 65
+            },
+            {
+                "name": "attack",
+                "base_stat": 95
+            },
+            {
+                "name": "defense",
+                "base_stat": 57
+            },
+            {
+                "name": "special-attack",
+                "base_stat": 100
+            },
+            {
+                "name": "special-defense",
+                "base_stat": 85
+            },
+            {
+                "name": "speed",
+                "base_stat": 93
+            }
+        ]
+    },
+    {
+        "name": "pinsir",
+        "id": 127,
+        "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/127.png",
+        "base_experience": 175,
+        "types": [
+            "bug"
+        ],
+        "height": 15,
+        "weight": 550,
+        "stats": [
+            {
+                "name": "hp",
+                "base_stat": 65
+            },
+            {
+                "name": "attack",
+                "base_stat": 125
+            },
+            {
+                "name": "defense",
+                "base_stat": 100
+            },
+            {
+                "name": "special-attack",
+                "base_stat": 55
+            },
+            {
+                "name": "special-defense",
+                "base_stat": 70
+            },
+            {
+                "name": "speed",
+                "base_stat": 85
+            }
+        ]
+    },
+    {
+        "name": "tauros",
+        "id": 128,
+        "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/128.png",
+        "base_experience": 172,
+        "types": [
+            "normal"
+        ],
+        "height": 14,
+        "weight": 884,
+        "stats": [
+            {
+                "name": "hp",
+                "base_stat": 75
+            },
+            {
+                "name": "attack",
+                "base_stat": 100
+            },
+            {
+                "name": "defense",
+                "base_stat": 95
+            },
+            {
+                "name": "special-attack",
+                "base_stat": 40
+            },
+            {
+                "name": "special-defense",
+                "base_stat": 70
+            },
+            {
+                "name": "speed",
+                "base_stat": 110
+            }
+        ]
+    },
+    {
+        "name": "magikarp",
+        "id": 129,
+        "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/129.png",
+        "base_experience": 40,
+        "types": [
+            "water"
+        ],
+        "height": 9,
+        "weight": 100,
+        "stats": [
+            {
+                "name": "hp",
+                "base_stat": 20
+            },
+            {
+                "name": "attack",
+                "base_stat": 10
+            },
+            {
+                "name": "defense",
+                "base_stat": 55
+            },
+            {
+                "name": "special-attack",
+                "base_stat": 15
+            },
+            {
+                "name": "special-defense",
+                "base_stat": 20
+            },
+            {
+                "name": "speed",
+                "base_stat": 80
+            }
+        ]
+    },
+    {
+        "name": "gyarados",
+        "id": 130,
+        "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/130.png",
+        "base_experience": 189,
+        "types": [
+            "water",
+            "flying"
+        ],
+        "height": 65,
+        "weight": 2350,
+        "stats": [
+            {
+                "name": "hp",
+                "base_stat": 95
+            },
+            {
+                "name": "attack",
+                "base_stat": 125
+            },
+            {
+                "name": "defense",
+                "base_stat": 79
+            },
+            {
+                "name": "special-attack",
+                "base_stat": 60
+            },
+            {
+                "name": "special-defense",
+                "base_stat": 100
+            },
+            {
+                "name": "speed",
+                "base_stat": 81
+            }
+        ]
+    },
+    {
+        "name": "lapras",
+        "id": 131,
+        "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/131.png",
+        "base_experience": 187,
+        "types": [
+            "water",
+            "ice"
+        ],
+        "height": 25,
+        "weight": 2200,
+        "stats": [
+            {
+                "name": "hp",
+                "base_stat": 130
+            },
+            {
+                "name": "attack",
+                "base_stat": 85
+            },
+            {
+                "name": "defense",
+                "base_stat": 80
+            },
+            {
+                "name": "special-attack",
+                "base_stat": 85
+            },
+            {
+                "name": "special-defense",
+                "base_stat": 95
+            },
+            {
+                "name": "speed",
+                "base_stat": 60
+            }
+        ]
+    },
+    {
+        "name": "ditto",
+        "id": 132,
+        "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/132.png",
+        "base_experience": 101,
+        "types": [
+            "normal"
+        ],
+        "height": 3,
+        "weight": 40,
+        "stats": [
+            {
+                "name": "hp",
+                "base_stat": 48
+            },
+            {
+                "name": "attack",
+                "base_stat": 48
+            },
+            {
+                "name": "defense",
+                "base_stat": 48
+            },
+            {
+                "name": "special-attack",
+                "base_stat": 48
+            },
+            {
+                "name": "special-defense",
+                "base_stat": 48
+            },
+            {
+                "name": "speed",
+                "base_stat": 48
+            }
+        ]
+    },
+    {
+        "name": "eevee",
+        "id": 133,
+        "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/133.png",
+        "base_experience": 65,
+        "types": [
+            "normal"
+        ],
+        "height": 3,
+        "weight": 65,
+        "stats": [
+            {
+                "name": "hp",
+                "base_stat": 55
+            },
+            {
+                "name": "attack",
+                "base_stat": 55
+            },
+            {
+                "name": "defense",
+                "base_stat": 50
+            },
+            {
+                "name": "special-attack",
+                "base_stat": 45
+            },
+            {
+                "name": "special-defense",
+                "base_stat": 65
+            },
+            {
+                "name": "speed",
+                "base_stat": 55
+            }
+        ]
+    },
+    {
+        "name": "vaporeon",
+        "id": 134,
+        "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/134.png",
+        "base_experience": 184,
+        "types": [
+            "water"
+        ],
+        "height": 10,
+        "weight": 290,
+        "stats": [
+            {
+                "name": "hp",
+                "base_stat": 130
+            },
+            {
+                "name": "attack",
+                "base_stat": 65
+            },
+            {
+                "name": "defense",
+                "base_stat": 60
+            },
+            {
+                "name": "special-attack",
+                "base_stat": 110
+            },
+            {
+                "name": "special-defense",
+                "base_stat": 95
+            },
+            {
+                "name": "speed",
+                "base_stat": 65
+            }
+        ]
+    },
+    {
+        "name": "jolteon",
+        "id": 135,
+        "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/135.png",
+        "base_experience": 184,
+        "types": [
+            "electric"
+        ],
+        "height": 8,
+        "weight": 245,
+        "stats": [
+            {
+                "name": "hp",
+                "base_stat": 65
+            },
+            {
+                "name": "attack",
+                "base_stat": 65
+            },
+            {
+                "name": "defense",
+                "base_stat": 60
+            },
+            {
+                "name": "special-attack",
+                "base_stat": 110
+            },
+            {
+                "name": "special-defense",
+                "base_stat": 95
+            },
+            {
+                "name": "speed",
+                "base_stat": 130
+            }
+        ]
+    },
+    {
+        "name": "flareon",
+        "id": 136,
+        "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/136.png",
+        "base_experience": 184,
+        "types": [
+            "fire"
+        ],
+        "height": 9,
+        "weight": 250,
+        "stats": [
+            {
+                "name": "hp",
+                "base_stat": 65
+            },
+            {
+                "name": "attack",
+                "base_stat": 130
+            },
+            {
+                "name": "defense",
+                "base_stat": 60
+            },
+            {
+                "name": "special-attack",
+                "base_stat": 95
+            },
+            {
+                "name": "special-defense",
+                "base_stat": 110
+            },
+            {
+                "name": "speed",
+                "base_stat": 65
+            }
+        ]
+    },
+    {
+        "name": "porygon",
+        "id": 137,
+        "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/137.png",
+        "base_experience": 79,
+        "types": [
+            "normal"
+        ],
+        "height": 8,
+        "weight": 365,
+        "stats": [
+            {
+                "name": "hp",
+                "base_stat": 65
+            },
+            {
+                "name": "attack",
+                "base_stat": 60
+            },
+            {
+                "name": "defense",
+                "base_stat": 70
+            },
+            {
+                "name": "special-attack",
+                "base_stat": 85
+            },
+            {
+                "name": "special-defense",
+                "base_stat": 75
+            },
+            {
+                "name": "speed",
+                "base_stat": 40
+            }
+        ]
+    },
+    {
+        "name": "omanyte",
+        "id": 138,
+        "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/138.png",
+        "base_experience": 71,
+        "types": [
+            "rock",
+            "water"
+        ],
+        "height": 4,
+        "weight": 75,
+        "stats": [
+            {
+                "name": "hp",
+                "base_stat": 35
+            },
+            {
+                "name": "attack",
+                "base_stat": 40
+            },
+            {
+                "name": "defense",
+                "base_stat": 100
+            },
+            {
+                "name": "special-attack",
+                "base_stat": 90
+            },
+            {
+                "name": "special-defense",
+                "base_stat": 55
+            },
+            {
+                "name": "speed",
+                "base_stat": 35
+            }
+        ]
+    },
+    {
+        "name": "omastar",
+        "id": 139,
+        "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/139.png",
+        "base_experience": 173,
+        "types": [
+            "rock",
+            "water"
+        ],
+        "height": 10,
+        "weight": 350,
+        "stats": [
+            {
+                "name": "hp",
+                "base_stat": 70
+            },
+            {
+                "name": "attack",
+                "base_stat": 60
+            },
+            {
+                "name": "defense",
+                "base_stat": 125
+            },
+            {
+                "name": "special-attack",
+                "base_stat": 115
+            },
+            {
+                "name": "special-defense",
+                "base_stat": 70
+            },
+            {
+                "name": "speed",
+                "base_stat": 55
+            }
+        ]
+    },
+    {
+        "name": "kabuto",
+        "id": 140,
+        "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/140.png",
+        "base_experience": 71,
+        "types": [
+            "rock",
+            "water"
+        ],
+        "height": 5,
+        "weight": 115,
+        "stats": [
+            {
+                "name": "hp",
+                "base_stat": 30
+            },
+            {
+                "name": "attack",
+                "base_stat": 80
+            },
+            {
+                "name": "defense",
+                "base_stat": 90
+            },
+            {
+                "name": "special-attack",
+                "base_stat": 55
+            },
+            {
+                "name": "special-defense",
+                "base_stat": 45
+            },
+            {
+                "name": "speed",
+                "base_stat": 55
+            }
+        ]
+    },
+    {
+        "name": "kabutops",
+        "id": 141,
+        "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/141.png",
+        "base_experience": 173,
+        "types": [
+            "rock",
+            "water"
+        ],
+        "height": 13,
+        "weight": 405,
+        "stats": [
+            {
+                "name": "hp",
+                "base_stat": 60
+            },
+            {
+                "name": "attack",
+                "base_stat": 115
+            },
+            {
+                "name": "defense",
+                "base_stat": 105
+            },
+            {
+                "name": "special-attack",
+                "base_stat": 65
+            },
+            {
+                "name": "special-defense",
+                "base_stat": 70
+            },
+            {
+                "name": "speed",
+                "base_stat": 80
+            }
+        ]
+    },
+    {
+        "name": "aerodactyl",
+        "id": 142,
+        "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/142.png",
+        "base_experience": 180,
+        "types": [
+            "rock",
+            "flying"
+        ],
+        "height": 18,
+        "weight": 590,
+        "stats": [
+            {
+                "name": "hp",
+                "base_stat": 80
+            },
+            {
+                "name": "attack",
+                "base_stat": 105
+            },
+            {
+                "name": "defense",
+                "base_stat": 65
+            },
+            {
+                "name": "special-attack",
+                "base_stat": 60
+            },
+            {
+                "name": "special-defense",
+                "base_stat": 75
+            },
+            {
+                "name": "speed",
+                "base_stat": 130
+            }
+        ]
+    },
+    {
+        "name": "snorlax",
+        "id": 143,
+        "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/143.png",
+        "base_experience": 189,
+        "types": [
+            "normal"
+        ],
+        "height": 21,
+        "weight": 4600,
+        "stats": [
+            {
+                "name": "hp",
+                "base_stat": 160
+            },
+            {
+                "name": "attack",
+                "base_stat": 110
+            },
+            {
+                "name": "defense",
+                "base_stat": 65
+            },
+            {
+                "name": "special-attack",
+                "base_stat": 65
+            },
+            {
+                "name": "special-defense",
+                "base_stat": 110
+            },
+            {
+                "name": "speed",
+                "base_stat": 30
+            }
+        ]
+    },
+    {
+        "name": "articuno",
+        "id": 144,
+        "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/144.png",
+        "base_experience": 261,
+        "types": [
+            "ice",
+            "flying"
+        ],
+        "height": 17,
+        "weight": 554,
+        "stats": [
+            {
+                "name": "hp",
+                "base_stat": 90
+            },
+            {
+                "name": "attack",
+                "base_stat": 85
+            },
+            {
+                "name": "defense",
+                "base_stat": 100
+            },
+            {
+                "name": "special-attack",
+                "base_stat": 95
+            },
+            {
+                "name": "special-defense",
+                "base_stat": 125
+            },
+            {
+                "name": "speed",
+                "base_stat": 85
+            }
+        ]
+    },
+    {
+        "name": "zapdos",
+        "id": 145,
+        "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/145.png",
+        "base_experience": 261,
+        "types": [
+            "electric",
+            "flying"
+        ],
+        "height": 16,
+        "weight": 526,
+        "stats": [
+            {
+                "name": "hp",
+                "base_stat": 90
+            },
+            {
+                "name": "attack",
+                "base_stat": 90
+            },
+            {
+                "name": "defense",
+                "base_stat": 85
+            },
+            {
+                "name": "special-attack",
+                "base_stat": 125
+            },
+            {
+                "name": "special-defense",
+                "base_stat": 90
+            },
+            {
+                "name": "speed",
+                "base_stat": 100
+            }
+        ]
+    },
+    {
+        "name": "moltres",
+        "id": 146,
+        "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/146.png",
+        "base_experience": 261,
+        "types": [
+            "fire",
+            "flying"
+        ],
+        "height": 20,
+        "weight": 600,
+        "stats": [
+            {
+                "name": "hp",
+                "base_stat": 90
+            },
+            {
+                "name": "attack",
+                "base_stat": 100
+            },
+            {
+                "name": "defense",
+                "base_stat": 90
+            },
+            {
+                "name": "special-attack",
+                "base_stat": 125
+            },
+            {
+                "name": "special-defense",
+                "base_stat": 85
+            },
+            {
+                "name": "speed",
+                "base_stat": 90
+            }
+        ]
+    },
+    {
+        "name": "dratini",
+        "id": 147,
+        "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/147.png",
+        "base_experience": 60,
+        "types": [
+            "dragon"
+        ],
+        "height": 18,
+        "weight": 33,
+        "stats": [
+            {
+                "name": "hp",
+                "base_stat": 41
+            },
+            {
+                "name": "attack",
+                "base_stat": 64
+            },
+            {
+                "name": "defense",
+                "base_stat": 45
+            },
+            {
+                "name": "special-attack",
+                "base_stat": 50
+            },
+            {
+                "name": "special-defense",
+                "base_stat": 50
+            },
+            {
+                "name": "speed",
+                "base_stat": 50
+            }
+        ]
+    },
+    {
+        "name": "dragonair",
+        "id": 148,
+        "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/148.png",
+        "base_experience": 147,
+        "types": [
+            "dragon"
+        ],
+        "height": 40,
+        "weight": 165,
+        "stats": [
+            {
+                "name": "hp",
+                "base_stat": 61
+            },
+            {
+                "name": "attack",
+                "base_stat": 84
+            },
+            {
+                "name": "defense",
+                "base_stat": 65
+            },
+            {
+                "name": "special-attack",
+                "base_stat": 70
+            },
+            {
+                "name": "special-defense",
+                "base_stat": 70
+            },
+            {
+                "name": "speed",
+                "base_stat": 70
+            }
+        ]
+    },
+    {
+        "name": "dragonite",
+        "id": 149,
+        "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/149.png",
+        "base_experience": 270,
+        "types": [
+            "dragon",
+            "flying"
+        ],
+        "height": 22,
+        "weight": 2100,
+        "stats": [
+            {
+                "name": "hp",
+                "base_stat": 91
+            },
+            {
+                "name": "attack",
+                "base_stat": 134
+            },
+            {
+                "name": "defense",
+                "base_stat": 95
+            },
+            {
+                "name": "special-attack",
+                "base_stat": 100
+            },
+            {
+                "name": "special-defense",
+                "base_stat": 100
+            },
+            {
+                "name": "speed",
+                "base_stat": 80
+            }
+        ]
+    },
+    {
+        "name": "mewtwo",
+        "id": 150,
+        "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/150.png",
+        "base_experience": 306,
+        "types": [
+            "psychic"
+        ],
+        "height": 20,
+        "weight": 1220,
+        "stats": [
+            {
+                "name": "hp",
+                "base_stat": 106
+            },
+            {
+                "name": "attack",
+                "base_stat": 110
+            },
+            {
+                "name": "defense",
+                "base_stat": 90
+            },
+            {
+                "name": "special-attack",
+                "base_stat": 154
+            },
+            {
+                "name": "special-defense",
+                "base_stat": 90
+            },
+            {
+                "name": "speed",
+                "base_stat": 130
+            }
+        ]
+    },
+    {
+        "name": "mew",
+        "id": 151,
+        "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/151.png",
+        "base_experience": 270,
+        "types": [
+            "psychic"
+        ],
+        "height": 4,
+        "weight": 40,
+        "stats": [
+            {
+                "name": "hp",
+                "base_stat": 100
+            },
+            {
+                "name": "attack",
+                "base_stat": 100
+            },
+            {
+                "name": "defense",
+                "base_stat": 100
+            },
+            {
+                "name": "special-attack",
+                "base_stat": 100
+            },
+            {
+                "name": "special-defense",
+                "base_stat": 100
+            },
+            {
+                "name": "speed",
+                "base_stat": 100
+            }
+        ]
+    }
+]

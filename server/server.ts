@@ -1,5 +1,3 @@
-const express = require('express');
-
 /**
  * TODO: (Server Basics)
  * - Set a simple server with '/' route, listening on port 3000
@@ -14,3 +12,6 @@ const express = require('express');
  * - Add a page query to the route
  * - Add search query to the route
  */
+
+const express = require('express');
+const db = require("./db.json");
