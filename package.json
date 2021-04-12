@@ -1,0 +1,12 @@
+{
+  "name": "react-mini-bootcamp",
+  "version": "1.0.0",
+  "description": "React mini bootcamp tutorial",
+  "main": "index.js",
+  "scripts": {
+    "start-client": "cd client && npm start",
+    "start-server": "cd server && npm start"
+  },
+  "author": "Tomer Groisman",
+  "license": "ISC"
+}
