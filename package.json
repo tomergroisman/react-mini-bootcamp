@@ -2,7 +2,6 @@
   "name": "react-mini-bootcamp",
   "version": "1.0.0",
   "description": "React mini bootcamp tutorial",
-  "main": "index.js",
   "scripts": {
     "install-all": "cd client && npm install && cd ../server && npm install",
     "start-client": "cd client && npm start",
