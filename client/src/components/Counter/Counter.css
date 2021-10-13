@@ -1,0 +1,19 @@
+.Counter-container > * {
+  margin: 8px;
+}
+
+.async-class {
+  background-color: #ff8080;
+}
+
+.async-functional {
+  background-color: #8080ff;
+}
+
+.sync-class {
+  background-color: #ffff80;
+}
+
+.sync-functional {
+  background-color: #80ff80;
+}

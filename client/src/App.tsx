@@ -1,7 +1,7 @@
 /**
  * TODO: (Client basics)
  * - DOM and rendering
- * - React basics (create a counter button component):
+ * - React basics (create a greeter input component):
  *      JSX (TSX)
  *      States
  *      Props
@@ -9,7 +9,7 @@
  *      Callbacks
  *      React events
  * - React class component and functional component
- * 
+ *
  * TODO: (Client-Server app):
  * - Creat the app structure:
  *      List of Pokemons (names only)
@@ -18,14 +18,12 @@
  * - Create an api object to help us talk to the server
  */
 
-import React, { Component } from 'react'
+import React, { Component } from "react";
+import { Greeter } from "./pages/Greeter";
+// import { Counters } from "./pages/Counters";
 
 export default class App extends Component {
   render() {
-    return (
-      <div>
-        Hello World!
-      </div>
-    )
+    return <Greeter />;
   }
 }
